@@ -2,2125 +2,3187 @@
   {
     "ID": 2,
     "course_name": "Introduction to Software Testing Concepts & Techniques",
-    "main_category": "Software Testing & QA",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Software%20Testing/Introduction-to-Software-Testing-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Software Testing & QA",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Software%20Testing/Introduction-to-Software-Testing-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2"
   },
   {
     "ID": 4,
     "course_name": "Effective Test Case and Bug Report Writing Techniques",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Software%20Testing/Effective-Test-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Essentials",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Software%20Testing/Effective-Test-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=4"
   },
   {
     "ID": 5,
     "course_name": "eLearning Fundamentals",
     "main_category": "eLearning",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/eLearning-Fundamentals-course-banner.jpg"
+    "sub_category": "eLearning",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/eLearning-Fundamentals-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=5"
   },
   {
     "ID": 6,
     "course_name": "Instructional Design",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/Instructional-Design-course-banner.jpg"
+    "main_category": "eLearning",
+    "sub_category": "Instructional Design",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/Instructional-Design-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=6"
   },
   {
     "ID": 7,
     "course_name": "Freelancing Basics",
     "main_category": "Freelancing & Career Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Freelancing/Freelancing-Basics-course-banner.jpg"
+    "sub_category": "Freelancing & Career Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Freelancing/Freelancing-Basics-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=7"
   },
   {
     "ID": 8,
     "course_name": "Freelancing Basics (Sign Language)",
     "main_category": "Freelancing & Career Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/freelancing-basics-sign-language-en.jpg"
+    "sub_category": "Freelancing & Career Development",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/freelancing-basics-sign-language-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=8"
   },
   {
     "ID": 9,
     "course_name": "Getting started as a freelancer (Upwork)",
     "main_category": "Freelancing & Career Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Freelancing/Upwork-course-banner.jpg"
+    "sub_category": "Freelancing & Career Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Freelancing/Upwork-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=9"
   },
   {
     "ID": 11,
     "course_name": "Introduction to Artificial Intelligence",
     "main_category": "Artificial Intelligence",
-    "cover": null
+    "sub_category": "AI",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=11"
   },
   {
     "ID": 12,
     "course_name": "Java Development SE",
     "main_category": "Programming",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/Java-Development-SE-course-banner.jpg"
+    "sub_category": "Java",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/Java-Development-SE-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=12"
   },
   {
     "ID": 13,
     "course_name": "Developing Mobile Applications for Android using Java",
-    "main_category": "Data Science & Analytics",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Android/Developing-Mobile-course-banner.jpg"
+    "main_category": "Mobile Development",
+    "sub_category": "Java",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Android/Developing-Mobile-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=13"
   },
   {
     "ID": 14,
     "course_name": "CMOS Analog IC Design",
     "main_category": "Electronics & IC Design",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IC-Design/CMOS-Analog-course-banner.jpg"
+    "sub_category": "Analog IC Design",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IC-Design/CMOS-Analog-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=14"
   },
   {
     "ID": 15,
     "course_name": "Introduction to the Internet of Things - IoT Value Chain",
-    "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOT/IoT-Value-Chain-course-banner.jpg"
+    "main_category": "Internet of Things (IoT)",
+    "sub_category": "IoT",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOT/IoT-Value-Chain-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=15"
   },
   {
     "ID": 16,
     "course_name": "IoT Applications Development using MasterOfThings platform",
     "main_category": "Internet of Things (IoT)",
-    "cover": null
+    "sub_category": "IoT",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=16"
   },
   {
     "ID": 17,
     "course_name": "Blockchain Fundamentals",
-    "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/BLOCKCHAIN/Blockchain-course-banner.jpg"
+    "main_category": "Blockchain",
+    "sub_category": "Blockchain",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/BLOCKCHAIN/Blockchain-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=17"
   },
   {
     "ID": 18,
     "course_name": "Design Thinking for Blockchain",
-    "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/BLOCKCHAIN/Design-Thinking-course-banner.jpg"
+    "main_category": "Blockchain",
+    "sub_category": "Blockchain",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/BLOCKCHAIN/Design-Thinking-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=18"
   },
   {
     "ID": 19,
     "course_name": "Hyperledger Fabric Chaincode",
-    "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/BLOCKCHAIN/Fabric-Chaincode-course-banner.jpg"
+    "main_category": "Blockchain",
+    "sub_category": "Hyperledger",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/BLOCKCHAIN/Fabric-Chaincode-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=19"
   },
   {
     "ID": 20,
     "course_name": "Hyperledger Fabric Integration",
     "main_category": "Blockchain",
-    "cover": null
+    "sub_category": "Hyperledger",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=20"
   },
   {
     "ID": 21,
     "course_name": "Building Web Applications using PHP & MYSQL",
-    "main_category": "Databases",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Back-End/PHP-%26-MYSQL-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Back-End/PHP-%26-MYSQL-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=21"
   },
   {
     "ID": 22,
     "course_name": "Computer Network Fundamentals",
-    "main_category": "Networking",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/computer-network-fundamentals-en.jpg"
+    "main_category": "Network",
+    "sub_category": "Network Fundamentals",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/computer-network-fundamentals-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=22"
   },
   {
     "ID": 23,
     "course_name": "Getting started as a freelancer (Upwork)  (Sign Language)",
     "main_category": "Freelancing & Career Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/getting-started-as-a-freelancer-upwork-sign-language-en.jpg"
+    "sub_category": "Freelancing & Career Development",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/getting-started-as-a-freelancer-upwork-sign-language-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=23"
   },
   {
     "ID": 27,
     "course_name": "Deep web VS. Dark web",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Cybersecurity",
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=27"
   },
   {
     "ID": 28,
     "course_name": "Introduction to deep learning",
     "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/introduction-to-deep-learning-en.jpg"
+    "sub_category": "Deep Learning",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/introduction-to-deep-learning-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=28"
   },
   {
     "ID": 29,
     "course_name": "Answers to important questions about Java",
     "main_category": "Programming",
-    "cover": null
+    "sub_category": "Java",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=29"
   },
   {
     "ID": 31,
     "course_name": "The HUMAN ELEMENT in a new business",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Bussiness & Entrepreneurship",
+    "sub_category": "Bussiness & Entrepreneurship",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=31"
   },
   {
     "ID": 32,
     "course_name": "Overview of the Electronics Industry",
     "main_category": "Electronics & IC Design",
-    "cover": null
+    "sub_category": "Electronics",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=32"
   },
   {
     "ID": 34,
     "course_name": "ISTQB Foundation Level",
-    "main_category": "Software Testing & QA",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Software Testing & QA",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=34"
   },
   {
     "ID": 35,
     "course_name": "Answers to important questions about Deep Learning",
     "main_category": "Artificial Intelligence",
-    "cover": null
+    "sub_category": "Deep Learning",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=35"
   },
   {
     "ID": 36,
     "course_name": "Learn HTML & CSS",
-    "main_category": "Web Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/front-End/HTML-%26-CSS-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/front-End/HTML-%26-CSS-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=36"
   },
   {
     "ID": 37,
     "course_name": "Introduction to network security",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/introduction-to-network-security-en.jpg"
+    "sub_category": "Network Security",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/introduction-to-network-security-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=37"
   },
   {
     "ID": 38,
     "course_name": "Skills RoadMap - for Developers",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=38"
   },
   {
     "ID": 39,
     "course_name": "Career Road Map - GIS",
     "main_category": "GIS",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=39"
   },
   {
     "ID": 42,
     "course_name": "Advanced CMOS Analog IC Design",
     "main_category": "Electronics & IC Design",
-    "cover": null
+    "sub_category": "Analog IC Design",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=42"
   },
   {
     "ID": 43,
     "course_name": "Python Programming Basics",
     "main_category": "Programming",
-    "cover": "https://maharatech.gov.eg/pluginfile.php/558649/course/overviewfiles/Practical-ML-for-Data-Scientists-Track-banner.jpg"
+    "sub_category": "Python",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/pluginfile.php/558649/course/overviewfiles/Practical-ML-for-Data-Scientists-Track-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=43"
   },
   {
     "ID": 47,
-    "course_name": "Cybersecuirty Career RoadMap",
-    "main_category": "Freelancing & Career Development",
-    "cover": null
+    "course_name": "Cybersecurity Career RoadMap",
+    "main_category": "Cybersecurity",
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=47"
   },
   {
     "ID": 513,
     "course_name": "VMware Cloud Foundation and Hybrid Cloud",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Cloud Computing",
+    "sub_category": "Cloud Computing",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=513"
   },
   {
     "ID": 514,
     "course_name": "Career RoadMap for Data Analytics",
     "main_category": "Data Science & Analytics",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=514"
   },
   {
     "ID": 515,
     "course_name": "Domain Name Systems",
-    "main_category": "Artificial Intelligence",
-    "cover": null
+    "main_category": "Network",
+    "sub_category": "Network Fundamentals",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=515"
   },
   {
     "ID": 738,
     "course_name": "Applied Deep Learning",
     "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/pluginfile.php/558649/course/overviewfiles/Practical-ML-for-Data-Scientists-Track-banner.jpg"
+    "sub_category": "Deep Learning",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/pluginfile.php/558649/course/overviewfiles/Practical-ML-for-Data-Scientists-Track-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=738"
   },
   {
     "ID": 740,
     "course_name": "Database Fundamentals",
-    "main_category": "Databases",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Database/Database-Fundamentals-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Databases",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Database/Database-Fundamentals-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=740"
   },
   {
     "ID": 741,
     "course_name": "Javascript*",
-    "main_category": "Web Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/front-End/java-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/front-End/java-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=741"
   },
   {
     "ID": 749,
     "course_name": "Skills Roadmap for eLearning - Industry as a “New Normal”",
     "main_category": "eLearning",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=749"
   },
   {
     "ID": 790,
     "course_name": "React js*",
-    "main_category": "Web Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/MERN/React-js-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/MERN/React-js-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=790"
   },
   {
     "ID": 791,
     "course_name": "Modern JavaScript: ES6 and beyond",
-    "main_category": "Web Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/front-End/Modern-JavaScript-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/front-End/Modern-JavaScript-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=791"
   },
   {
     "ID": 870,
     "course_name": "Ethical Hacking",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/ethical-hacking-en.jpg"
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/ethical-hacking-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=870"
   },
   {
     "ID": 975,
     "course_name": "Introduction to mongoDB",
-    "main_category": "Databases",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/MERN/mongoDB-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Databases",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/MERN/mongoDB-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=975"
   },
   {
     "ID": 976,
     "course_name": "TypeScript Fundamentals",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/front-End/TypeScript-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/front-End/TypeScript-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=976"
   },
   {
     "ID": 990,
     "course_name": "Software Tester",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Software Testing & QA",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=990"
   },
   {
     "ID": 992,
     "course_name": "Java Mobile Apps Developer",
-    "main_category": "Data Science & Analytics",
-    "cover": null
+    "main_category": "Mobile Development",
+    "sub_category": "Java",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=992"
   },
   {
     "ID": 993,
     "course_name": "IoT Application Developer",
     "main_category": "Internet of Things (IoT)",
-    "cover": null
+    "sub_category": "IoT",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=993"
   },
   {
     "ID": 994,
     "course_name": "Freelancer",
     "main_category": "Freelancing & Career Development",
-    "cover": null
+    "sub_category": "Freelancing & Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=994"
   },
   {
     "ID": 995,
     "course_name": "Instructional Designer",
     "main_category": "eLearning",
-    "cover": null
+    "sub_category": "Instructional Design",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=995"
   },
   {
     "ID": 996,
     "course_name": "Blockchain Developer",
-    "main_category": "Artificial Intelligence",
-    "cover": null
+    "main_category": "Blockchain",
+    "sub_category": "Blockchain",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=996"
   },
   {
     "ID": 997,
     "course_name": "Front-End Developer",
-    "main_category": "Web Development",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=997"
   },
   {
     "ID": 998,
     "course_name": "Mern Stack Developer",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=998"
   },
   {
     "ID": 999,
     "course_name": "Javascript Developer",
-    "main_category": "Web Development",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=999"
   },
   {
     "ID": 1000,
     "course_name": "ReactJS Developer",
-    "main_category": "Web Development",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1000"
   },
   {
     "ID": 1001,
     "course_name": "Back-End Developer",
-    "main_category": "Web Development",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1001"
   },
   {
     "ID": 1002,
     "course_name": "PHP Developer",
-    "main_category": "Web Development",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1002"
   },
   {
     "ID": 1003,
     "course_name": "Analog IC Design Engineer",
     "main_category": "Electronics & IC Design",
-    "cover": null
+    "sub_category": "Analog IC Design",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1003"
   },
   {
     "ID": 1004,
     "course_name": "Cyber Security Engineer",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1004"
   },
   {
     "ID": 1005,
     "course_name": "Ethical Hacker",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Cybersecurity",
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1005"
   },
   {
     "ID": 1006,
     "course_name": "Deep Learning Engineer",
     "main_category": "Artificial Intelligence",
-    "cover": null
+    "sub_category": "Deep Learning",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1006"
   },
   {
     "ID": 1015,
     "course_name": "Cybersecurity Associate",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/nse/nse1_en.jpg"
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/nse/nse1_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1015"
   },
   {
     "ID": 1018,
     "course_name": "Begin Vodafone",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "HR & Technology",
+    "sub_category": "HR & Technology",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1018"
   },
   {
     "ID": 1019,
     "course_name": "e-Learning Track Admission",
     "main_category": "eLearning",
-    "cover": null
+    "sub_category": "Admission",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1019"
   },
   {
     "ID": 1194,
     "course_name": "Building Young Digital Talents Through Future Skilling NASSCOM initiative",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "HR & Technology",
+    "sub_category": "HR & Technology",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1194"
   },
   {
     "ID": 1217,
     "course_name": "Cloud and Virtualization Concepts",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/new_to_cs/new_to_CS1_en.jpg"
+    "main_category": "Cloud Computing",
+    "sub_category": "Cloud Computing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/new_to_cs/new_to_CS1_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1217"
   },
   {
     "ID": 1218,
     "course_name": "Network Virtualization Concepts",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/new_to_cs/new_to_CS2_en.jpg"
+    "main_category": "Network",
+    "sub_category": "Network Virtualization",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/new_to_cs/new_to_CS2_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1218"
   },
   {
     "ID": 1227,
     "course_name": "Malware Analyst Job profile",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1227"
   },
   {
     "ID": 1228,
     "course_name": "Wireless Security Engineer Job profile",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1228"
   },
   {
     "ID": 1229,
     "course_name": "Intro to Cybersecurity and Main Job Profiles",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1229"
   },
   {
     "ID": 1230,
     "course_name": "Cloud Computing _ Intro &Career Road Map",
     "main_category": "Cloud Computing",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1230"
   },
   {
     "ID": 1231,
     "course_name": "UX Design Fundamentals",
-    "main_category": "UI/UX & Design",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/UXDesign/UX-Design-course-banner.jpg"
+    "main_category": "Digital Arts",
+    "sub_category": "UI/UX & Design",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/UXDesign/UX-Design-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1231"
   },
   {
     "ID": 1240,
     "course_name": "Into to Coding",
     "main_category": "Programming",
-    "cover": null
+    "sub_category": "Programming",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1240"
   },
   {
     "ID": 1241,
     "course_name": "Data Science and Analytics",
     "main_category": "Data Science & Analytics",
-    "cover": null
+    "sub_category": "Data Science & Analytics",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1241"
   },
   {
     "ID": 1242,
     "course_name": "Cloud Computing",
     "main_category": "Cloud Computing",
-    "cover": null
+    "sub_category": "Cloud Computing",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1242"
   },
   {
     "ID": 1243,
     "course_name": "Cybersecurity",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1243"
   },
   {
     "ID": 1244,
     "course_name": "Blockchain",
-    "main_category": "Artificial Intelligence",
-    "cover": null
+    "main_category": "Blockchain",
+    "sub_category": "Blockchain",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1244"
   },
   {
     "ID": 1245,
     "course_name": "Internet of Things",
     "main_category": "Internet of Things (IoT)",
-    "cover": null
+    "sub_category": "IoT",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1245"
   },
   {
     "ID": 1246,
     "course_name": "Artificial Intelligence",
     "main_category": "Artificial Intelligence",
-    "cover": null
+    "sub_category": "AI",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1246"
   },
   {
     "ID": 1247,
     "course_name": "Quantum Computing",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Computer Resources & HPC",
+    "sub_category": "Quantum",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1247"
   },
   {
     "ID": 1248,
     "course_name": "Programming Essentials in Python",
     "main_category": "Programming",
-    "cover": null
+    "sub_category": "Python",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1248"
   },
   {
     "ID": 1249,
     "course_name": "NDG Linux Unhatched",
     "main_category": "Linux & System Administration",
-    "cover": null
+    "sub_category": "Linux & System Administration",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1249"
   },
   {
     "ID": 1250,
     "course_name": "Introduction to Cybersecurity",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1250"
   },
   {
     "ID": 1251,
     "course_name": "Introduction to IoT",
     "main_category": "Internet of Things (IoT)",
-    "cover": null
+    "sub_category": "IoT",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1251"
   },
   {
     "ID": 1261,
     "course_name": "Data Scientist",
     "main_category": "Data Science & Analytics",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/IBM/IBM-Banner.png"
+    "sub_category": "Data Science & Analytics",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/IBM/IBM-Banner.png",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1261"
   },
   {
     "ID": 1262,
     "course_name": "Blockchain Developer",
-    "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/IBM/IBM-Banner.png"
+    "main_category": "Blockchain",
+    "sub_category": "Blockchain",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/IBM/IBM-Banner.png",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1262"
   },
   {
     "ID": 1263,
     "course_name": "Cloud Application Developer",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/IBM/IBM-Banner.png"
+    "main_category": "Cloud Computing",
+    "sub_category": "Cloud Computing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/IBM/IBM-Banner.png",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1263"
   },
   {
     "ID": 1264,
     "course_name": "Artificial Intelligence Analyst",
     "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/IBM/IBM-Banner.png"
+    "sub_category": "AI",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/IBM/IBM-Banner.png",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1264"
   },
   {
     "ID": 1265,
     "course_name": "IoT Developer",
     "main_category": "Internet of Things (IoT)",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/IBM/IBM-Banner.png"
+    "sub_category": "IoT",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/IBM/IBM-Banner.png",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1265"
   },
   {
     "ID": 1266,
     "course_name": "Web Application Developer",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/IBM/IBM-Banner.png"
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/IBM/IBM-Banner.png",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1266"
   },
   {
     "ID": 1321,
     "course_name": "Cloud Operations Specialist",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/industrry%20partners/amazon.jpg"
+    "main_category": "Cloud Computing",
+    "sub_category": "Cloud Computing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/industrry%20partners/amazon.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1321"
   },
   {
     "ID": 1322,
     "course_name": "iOS Application development using Swift",
     "main_category": "Mobile Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOS/using-Swift-course-banner.jpg"
+    "sub_category": "iOS",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOS/using-Swift-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1322"
   },
   {
     "ID": 1325,
     "course_name": "IoT Career Road Map",
     "main_category": "Internet of Things (IoT)",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1325"
   },
   {
     "ID": 1326,
     "course_name": "Telecom Applications Job Profiles",
-    "main_category": "Networking",
-    "cover": null
+    "main_category": "Telecom",
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1326"
   },
   {
     "ID": 1327,
     "course_name": "DevOps Intro & Cloud Development Job profiles",
-    "main_category": "DevOps",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1327"
   },
   {
     "ID": 1328,
     "course_name": "Game Art Job Profiles",
-    "main_category": "Freelancing & Career Development",
-    "cover": null
+    "main_category": "Game Development & 3D",
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1328"
   },
   {
     "ID": 1332,
     "course_name": "E-Content Developer Job Profile",
-    "main_category": "Freelancing & Career Development",
-    "cover": null
+    "main_category": "Game Development & 3D",
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1332"
   },
   {
     "ID": 1333,
     "course_name": "Performance Testing Engineer Profile",
-    "main_category": "Software Testing & QA",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Software Testing & QA",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1333"
   },
   {
     "ID": 1379,
     "course_name": "Pipeline of Game Production & Main Job Profiles",
-    "main_category": "Artificial Intelligence",
-    "cover": null
+    "main_category": "Game Development & 3D",
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1379"
   },
   {
     "ID": 1381,
     "course_name": "Elearning Career Road Map",
-    "main_category": "Freelancing & Career Development",
-    "cover": null
+    "main_category": "eLearning",
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1381"
   },
   {
     "ID": 1382,
     "course_name": "Game Programmer Job Profiles",
-    "main_category": "Freelancing & Career Development",
-    "cover": null
+    "main_category": "Game Development & 3D",
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1382"
   },
   {
     "ID": 1383,
     "course_name": "Instructional Designer & eLearning Specialist Job profile",
-    "main_category": "Freelancing & Career Development",
-    "cover": null
+    "main_category": "eLearning",
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1383"
   },
   {
     "ID": 1384,
     "course_name": "iOS Application development using Objective-C",
     "main_category": "Mobile Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOS/Objective-C-course-banner.jpg"
+    "sub_category": "iOS",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOS/Objective-C-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1384"
   },
   {
     "ID": 1385,
     "course_name": "Open Source Programming languages  Job Profiles",
     "main_category": "Programming",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1385"
   },
   {
     "ID": 1386,
     "course_name": "25 Ways to make better games",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Game Development & 3D",
+    "sub_category": "Game Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1386"
   },
   {
     "ID": 1387,
     "course_name": "Introduction to Cybersecurity Domains",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1387"
   },
   {
     "ID": 1388,
     "course_name": "Cloud and Virtualization Specialist",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/industrry%20partners/VMware.jpg"
+    "main_category": "Cloud Computing",
+    "sub_category": "Cloud Computing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/industrry%20partners/VMware.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1388"
   },
   {
     "ID": 1389,
     "course_name": "Getting Started in IT",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Linux & System Administration",
+    "sub_category": "IT-System",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1389"
   },
   {
     "ID": 1390,
     "course_name": "Getting started as a freelancer (khamsat)",
     "main_category": "Freelancing & Career Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Freelancing/khamsat-course-banner.jpg"
+    "sub_category": "Freelancing & Career Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Freelancing/khamsat-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1390"
   },
   {
     "ID": 1391,
     "course_name": "Getting started as a freelancer (Mostaql)",
     "main_category": "Freelancing & Career Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Freelancing/Mostaql-course-banner.jpg"
+    "sub_category": "Freelancing & Career Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Freelancing/Mostaql-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1391"
   },
   {
     "ID": 1393,
     "course_name": "GIS Analyst & GIS Developer Job Profile",
     "main_category": "GIS",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1393"
   },
   {
     "ID": 1404,
     "course_name": "Malware Analysis Fundamentals",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Malware-banner-en.jpg"
+    "sub_category": "Malware Analysis",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Malware-banner-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1404"
   },
   {
     "ID": 1405,
     "course_name": "iOS Developer Job Profile",
     "main_category": "Mobile Development",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1405"
   },
   {
     "ID": 1411,
     "course_name": "Android Developer",
     "main_category": "Mobile Development",
-    "cover": null
+    "sub_category": "Android",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1411"
   },
   {
     "ID": 1412,
     "course_name": "Cloud Architect",
     "main_category": "Cloud Computing",
-    "cover": null
+    "sub_category": "Cloud Computing",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1412"
   },
   {
     "ID": 1413,
     "course_name": "Data Analyst",
     "main_category": "Data Science & Analytics",
-    "cover": null
+    "sub_category": "Data Science & Analytics",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1413"
   },
   {
     "ID": 1414,
     "course_name": "DevOps Engineer",
-    "main_category": "DevOps",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "DevOps",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1414"
   },
   {
     "ID": 1415,
     "course_name": "Java Spring Developer",
     "main_category": "Programming",
-    "cover": null
+    "sub_category": "Java",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1415"
   },
   {
     "ID": 1416,
     "course_name": "MEAN Stack Developer",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1416"
   },
   {
     "ID": 1417,
     "course_name": "Software and Quality Assurance Specialist",
-    "main_category": "Software Testing & QA",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Software Testing & QA",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1417"
   },
   {
     "ID": 1418,
     "course_name": "UI/UX (Front End) Developer",
-    "main_category": "Web Development",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1418"
   },
   {
     "ID": 1419,
     "course_name": "IT-System Admin",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Linux & System Administration",
+    "sub_category": "IT-System",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1419"
   },
   {
     "ID": 1420,
     "course_name": "Game Character Artist Job Profile",
-    "main_category": "Freelancing & Career Development",
-    "cover": null
+    "main_category": "Game Development & 3D",
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1420"
   },
   {
     "ID": 1421,
     "course_name": "3D Game Art Production Workflows",
     "main_category": "Game Development & 3D",
-    "cover": null
+    "sub_category": "3D Animation",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1421"
   },
   {
     "ID": 1422,
     "course_name": "Gamification In eLearning",
     "main_category": "eLearning",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/Gamification-In-eLearning-course-banner.jpg"
+    "sub_category": "Gamification",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/Gamification-In-eLearning-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1422"
   },
   {
     "ID": 1423,
     "course_name": "Reverse Code Engineering",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Reverse-Code-Engineering-en.jpg"
+    "main_category": "Cybersecurity",
+    "sub_category": "Reverse Engineering",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Reverse-Code-Engineering-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1423"
   },
   {
     "ID": 1424,
     "course_name": "Network Security Expert",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Network Security",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1424"
   },
   {
     "ID": 1425,
     "course_name": "Software and Quality Assurance Specialist Track Prerequisite",
-    "main_category": "Software Testing & QA",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Software Testing & QA",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1425"
   },
   {
     "ID": 1426,
     "course_name": "Java Spring Developer Track Prerequisite",
     "main_category": "Programming",
-    "cover": null
+    "sub_category": "Java",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1426"
   },
   {
     "ID": 1427,
     "course_name": "DevOps Engineer Track Prerequisite",
-    "main_category": "DevOps",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "DevOps",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1427"
   },
   {
     "ID": 1428,
     "course_name": "UI/UX (Front End) Developer Track Prerequisite",
-    "main_category": "Web Development",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1428"
   },
   {
     "ID": 1429,
     "course_name": "MEAN Stack Developer Track Prerequisite",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1429"
   },
   {
     "ID": 1430,
     "course_name": "Android Developer Track Prerequisite",
     "main_category": "Mobile Development",
-    "cover": null
+    "sub_category": "Android",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1430"
   },
   {
     "ID": 1431,
     "course_name": "IT-System Admin Track Prerequisite",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Linux & System Administration",
+    "sub_category": "IT-System",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1431"
   },
   {
     "ID": 1432,
     "course_name": "Data Analyst Track Prerequisite",
     "main_category": "Data Science & Analytics",
-    "cover": null
+    "sub_category": "Data Science & Analytics",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1432"
   },
   {
     "ID": 1433,
     "course_name": "Cloud Architect Track Prerequisite",
     "main_category": "Cloud Computing",
-    "cover": null
+    "sub_category": "Cloud Computing",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1433"
   },
   {
     "ID": 1435,
     "course_name": "Articulate Storyline 3",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/Articulate-Storyline3-course-banner.jpg"
+    "main_category": "eLearning",
+    "sub_category": "eLearning",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/Articulate-Storyline3-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1435"
   },
   {
     "ID": 1436,
     "course_name": "Software Testing Career RoadMap & Job profiles",
-    "main_category": "Software Testing & QA",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1436"
   },
   {
     "ID": 1438,
     "course_name": "The Complete Node.js Course (RESTful Web Services with Node.js, Express, and MongoDB)",
-    "main_category": "Databases",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/MERN/Node.js-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/MERN/Node.js-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1438"
   },
   {
     "ID": 1439,
     "course_name": "Network Security Engineer",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Network Security",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1439"
   },
   {
     "ID": 1441,
     "course_name": "Network Security Engineer Job profile",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1441"
   },
   {
     "ID": 1442,
     "course_name": "Wireless Networks Penetration Testing",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Wireless-Networks-Penetration-Testing-en.jpg"
+    "sub_category": "Penetration Testing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Wireless-Networks-Penetration-Testing-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1442"
   },
   {
     "ID": 1593,
     "course_name": "Business Intelligence (BI) Career Roadmap",
     "main_category": "Data Science & Analytics",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1593"
   },
   {
     "ID": 1594,
     "course_name": "3D Animation Movie Production Pipeline",
     "main_category": "Game Development & 3D",
-    "cover": null
+    "sub_category": "3D Animation",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1594"
   },
   {
     "ID": 1595,
     "course_name": "iOS Architecture Design Patterns",
     "main_category": "Mobile Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOS/Design-Patterns-course-banner.jpg"
+    "sub_category": "iOS",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOS/Design-Patterns-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1595"
   },
   {
     "ID": 1596,
     "course_name": "Getting started as a freelancer (Mostaql) - (Sign Language)",
     "main_category": "Freelancing & Career Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Getting-started-as-a-freelancer-(Mostaql)-(Sign-language)-en.jpg"
+    "sub_category": "Freelancing & Career Development",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Getting-started-as-a-freelancer-(Mostaql)-(Sign-language)-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1596"
   },
   {
     "ID": 1597,
     "course_name": "Getting started as a freelancer (khamsat) - (Sign Language)",
     "main_category": "Freelancing & Career Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Getting-started-as-a-freelancer-(Khamsat)-(Sign-language)-en.jpg"
+    "sub_category": "Freelancing & Career Development",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Getting-started-as-a-freelancer-(Khamsat)-(Sign-language)-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1597"
   },
   {
     "ID": 1598,
     "course_name": "Career RoadMap for XR Technologies",
-    "main_category": "Freelancing & Career Development",
-    "cover": null
+    "main_category": "Game Development & 3D",
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1598"
   },
   {
     "ID": 1599,
     "course_name": "Advanced Malware Analysis",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/advanced-malware-analysis-en.jpg"
+    "sub_category": "Malware Analysis",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/advanced-malware-analysis-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1599"
   },
   {
     "ID": 1600,
     "course_name": "The principles of writing clean code",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/MERN/code-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Essentials",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/MERN/code-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1600"
   },
   {
     "ID": 1601,
     "course_name": "Intel® Edge AI Certification",
     "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/Intel-banner.jpg"
+    "sub_category": "AI",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/Intel-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1601"
   },
   {
     "ID": 1602,
     "course_name": "Intel® DevCloud",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/Intel-banner.jpg"
+    "main_category": "Cloud Computing",
+    "sub_category": "Cloud Computing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/Intel-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1602"
   },
   {
     "ID": 1603,
     "course_name": "Gamification In eLearning (sign language)",
     "main_category": "eLearning",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Gamification-sign-en.jpg"
+    "sub_category": "Gamification",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Gamification-sign-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1603"
   },
   {
     "ID": 1604,
     "course_name": "Think Like Egyptians (Dr Fathy Saleh)",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "maharatech",
+    "sub_category": "maharatech",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1604"
   },
   {
     "ID": 1605,
     "course_name": "iOS Developer",
     "main_category": "Mobile Development",
-    "cover": null
+    "sub_category": "iOS",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1605"
   },
   {
     "ID": 1606,
     "course_name": "Malware Analyst",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Malware Analysis",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1606"
   },
   {
     "ID": 1607,
     "course_name": "Wireless Pen Tester",
-    "main_category": "Networking",
-    "cover": null
+    "main_category": "Cybersecurity",
+    "sub_category": "Penetration Testing",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1607"
   },
   {
     "ID": 1608,
     "course_name": "eLearning Fundamentals (Sign Language)",
     "main_category": "eLearning",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/eLearning-Fundamentals-sign-language-en.jpg"
+    "sub_category": "eLearning",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/eLearning-Fundamentals-sign-language-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1608"
   },
   {
     "ID": 1609,
     "course_name": "Moodle Admin Basics",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/Moodle-course-banner.jpg"
+    "main_category": "eLearning",
+    "sub_category": "Moodle",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/Moodle-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1609"
   },
   {
     "ID": 1610,
     "course_name": "AI Career Road Map",
     "main_category": "Artificial Intelligence",
-    "cover": null
+    "sub_category": "AI",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1610"
   },
   {
     "ID": 1612,
     "course_name": "Articulate Storyline 3 - Sign Language",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Articulate-SL-3--en.jpg"
+    "main_category": "eLearning",
+    "sub_category": "eLearning",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Articulate-SL-3--en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1612"
   },
   {
     "ID": 1613,
     "course_name": "Instructional Design - Sign Language",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Instructional-Design-sign-language-en.jpg"
+    "main_category": "eLearning",
+    "sub_category": "Instructional Design",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Instructional-Design-sign-language-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1613"
   },
   {
     "ID": 1614,
     "course_name": "Introduction to Software Testing Concepts & Techniques - Sign Language",
-    "main_category": "Software Testing & QA",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Introduction-to-software-testing-concepts-&amp;-techniques-en.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Software Testing & QA",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Introduction-to-software-testing-concepts-&amp;-techniques-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1614"
   },
   {
     "ID": 1615,
     "course_name": "ISTQB Foundation Level - Sign Language",
-    "main_category": "Software Testing & QA",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/ISTQB-Foundation-level-en.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Software Testing & QA",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/ISTQB-Foundation-level-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1615"
   },
   {
     "ID": 1616,
     "course_name": "Effective Test Case and Bug Report Writing Techniques - Sign Language",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Effective-Test-Case-and-Bug-Report-Writing-Techniques-en.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Essentials",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Effective-Test-Case-and-Bug-Report-Writing-Techniques-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1616"
   },
   {
     "ID": 1617,
     "course_name": "How To Develop Custom Event & Plugin in MOT",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOT/Plugin-in-MOT-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOT/Plugin-in-MOT-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1617"
   },
   {
     "ID": 1620,
     "course_name": "Android Application Developer Job Profile",
     "main_category": "Mobile Development",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=1620"
   },
   {
     "ID": 2046,
     "course_name": "Summer Cybersecurity Training",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2046"
   },
   {
     "ID": 2047,
     "course_name": "Computer Hacking Forensic Investigator",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/digital_forensics_professional/computer_hacking_forensic-investigator_en.jpg"
+    "main_category": "Cybersecurity",
+    "sub_category": "Digital Forensics",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/digital_forensics_professional/computer_hacking_forensic-investigator_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2047"
   },
   {
     "ID": 2048,
     "course_name": "Certified Incident Handler",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/incident_handler/certified_incident_handler_en.jpg"
+    "main_category": "Cybersecurity",
+    "sub_category": "Incident Response",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/incident_handler/certified_incident_handler_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2048"
   },
   {
     "ID": 2049,
     "course_name": "Certified SOC Analyst (CSA)",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/SOC/certified_SOC_Analyst_%28CSA%29_en.jpg"
+    "sub_category": "SOC",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/SOC/certified_SOC_Analyst_%28CSA%29_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2049"
   },
   {
     "ID": 2050,
     "course_name": "Certified Threat Intelligence Analyst (CTIA)",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/maleware/certified_threat_intelligence_analyst_%28CTIA%29_en.jpg"
+    "main_category": "Cybersecurity",
+    "sub_category": "Threat Intelligence",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/maleware/certified_threat_intelligence_analyst_%28CTIA%29_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2050"
   },
   {
     "ID": 2052,
     "course_name": "Core Java Programming",
     "main_category": "Programming",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Android/Core-Java-course-banner.jpg"
+    "sub_category": "Java",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Android/Core-Java-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2052"
   },
   {
     "ID": 2058,
     "course_name": "Penetration Testing Student",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/pen_testing/pen_testing1_en.jpg"
+    "sub_category": "Penetration Testing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/pen_testing/pen_testing1_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2058"
   },
   {
     "ID": 2059,
     "course_name": "Penetration Testing Professional",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/pen_testing/pen_testing5_en.jpg"
+    "sub_category": "Penetration Testing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/pen_testing/pen_testing5_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2059"
   },
   {
     "ID": 2060,
     "course_name": "Advanced Penetration Testing",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/pen_testing/pen_testing2_en.jpg"
+    "sub_category": "Penetration Testing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/pen_testing/pen_testing2_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2060"
   },
   {
     "ID": 2061,
     "course_name": "Web Application Penetration Testing Professional",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/pen_testing/pen_testing4_en.jpg"
+    "sub_category": "Penetration Testing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/pen_testing/pen_testing4_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2061"
   },
   {
     "ID": 2062,
     "course_name": "Mobile Application Penetration Testing Professional",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/pen_testing/pen_testing3_en.jpg"
+    "sub_category": "Penetration Testing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/pen_testing/pen_testing3_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2062"
   },
   {
     "ID": 2065,
     "course_name": "Cybersecurity Introduction by Kaspersky",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/new_to_cs/new_to_CS4_en.jpg"
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/new_to_cs/new_to_CS4_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2065"
   },
   {
     "ID": 2089,
     "course_name": "Incident Handling& Response Professional",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Incident Response",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2089"
   },
   {
     "ID": 2092,
     "course_name": "New to Cybersecurity",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2092"
   },
   {
     "ID": 2093,
     "course_name": "Network Security Engineer",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Network Security",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2093"
   },
   {
     "ID": 2094,
     "course_name": "Digital Forensics Professional",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Digital Forensics",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2094"
   },
   {
     "ID": 2096,
     "course_name": "Malware Analyst",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Malware Analysis",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2096"
   },
   {
     "ID": 2097,
     "course_name": "SOC Analyst",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "SOC",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2097"
   },
   {
     "ID": 2099,
     "course_name": "Learning Kotlin for Android",
     "main_category": "Mobile Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Android/Kotlin-course-banner.jpg"
+    "sub_category": "Kotlin",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Android/Kotlin-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2099"
   },
   {
     "ID": 2100,
     "course_name": "Penetration Testing Professional-wireless",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Penetration Testing",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2100"
   },
   {
     "ID": 2101,
     "course_name": "Cybersecurity Specialist Skills for all (Cisco academy)",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Network Security",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2101"
   },
   {
     "ID": 2106,
     "course_name": "UX Design Fundamentals - sign language",
-    "main_category": "UI/UX & Design",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/user-experience-design-fundamnetals-sl-en.jpg"
+    "main_category": "Digital Arts",
+    "sub_category": "UI/UX & Design",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/user-experience-design-fundamnetals-sl-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2106"
   },
   {
     "ID": 2107,
     "course_name": "Computer Network Fundamentals - Sign Language",
-    "main_category": "Networking",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Computer-Network-Fundamentals-sign-language-en.jpg"
+    "main_category": "Network",
+    "sub_category": "Network Fundamentals",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Computer-Network-Fundamentals-sign-language-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2107"
   },
   {
     "ID": 2108,
     "course_name": "IoT Lab Hands-on Devices",
     "main_category": "Internet of Things (IoT)",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOT/IoT-Lab-Hands-course-banner.jpg"
+    "sub_category": "IoT",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOT/IoT-Lab-Hands-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2108"
   },
   {
     "ID": 2109,
     "course_name": "NLP Engineer",
     "main_category": "Artificial Intelligence",
-    "cover": null
+    "sub_category": "NLP",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2109"
   },
   {
     "ID": 2110,
     "course_name": "Computer Vision Engineer",
     "main_category": "Artificial Intelligence",
-    "cover": null
+    "sub_category": "Computer Vision",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2110"
   },
   {
     "ID": 2111,
     "course_name": "ML/AI Engineer",
     "main_category": "Artificial Intelligence",
-    "cover": null
+    "sub_category": "Machine Learning",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2111"
   },
   {
     "ID": 2112,
     "course_name": "Introduction to network security - Sign Language",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Introduction-to-network-security-sign-language-en.jpg"
+    "sub_category": "Network Security",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Introduction-to-network-security-sign-language-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2112"
   },
   {
     "ID": 2113,
     "course_name": "Cyber Security for All",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/csAcademy/iti.png"
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/csAcademy/iti.png",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2113"
   },
   {
     "ID": 2115,
     "course_name": "Red Hat System Administration - I",
     "main_category": "Linux & System Administration",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/LINUX/Red-Hat-System1-course-banner.jpg"
+    "sub_category": "Linux & Red Hat",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/LINUX/Red-Hat-System1-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2115"
   },
   {
     "ID": 2116,
     "course_name": "Implementation of Computer Network Fundamentals",
-    "main_category": "Networking",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Implementation-of-Computer-Network-en.jpg"
+    "main_category": "Network",
+    "sub_category": "Network Fundamentals",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Implementation-of-Computer-Network-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2116"
   },
   {
     "ID": 2117,
     "course_name": "Secure Software Development Lifecycle (SSDLC)",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Secure-Software-Development-Lifecycle-(SSDLC)-en.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Essentials",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Secure-Software-Development-Lifecycle-(SSDLC)-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2117"
   },
   {
     "ID": 2120,
     "course_name": "Network Defense Essentials",
-    "main_category": "Networking",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/digital_forensics_professional/network_defense_essentials_en.jpg"
+    "main_category": "Cybersecurity",
+    "sub_category": "Network Security",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/digital_forensics_professional/network_defense_essentials_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2120"
   },
   {
     "ID": 2121,
     "course_name": "Ethical Hacking Essentials",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/digital_forensics_professional/ethical_hacking_essentials_en.jpg"
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/digital_forensics_professional/ethical_hacking_essentials_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2121"
   },
   {
     "ID": 2122,
     "course_name": "Digital Forensics Essentials",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/digital_forensics_professional/digital_forensics_essentials_en.jpg"
+    "sub_category": "Digital Forensics",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/digital_forensics_professional/digital_forensics_essentials_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2122"
   },
   {
     "ID": 2126,
     "course_name": "Mobile Application Pen Tester",
-    "main_category": "Data Science & Analytics",
-    "cover": null
+    "main_category": "Cybersecurity",
+    "sub_category": "Penetration Testing",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2126"
   },
   {
     "ID": 2127,
     "course_name": "Web Application Pen Tester",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Cybersecurity",
+    "sub_category": "Penetration Testing",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2127"
   },
   {
     "ID": 2129,
     "course_name": "Ethical Hacking - Sign Language",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/ethical-hacking-en.jpg"
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/ethical-hacking-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2129"
   },
   {
     "ID": 2132,
     "course_name": "Cloud Security",
     "main_category": "Cloud Computing",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/cloud_security/cloud_security_course_en.jpg"
+    "sub_category": "Cloud Security",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/cs_academy/cloud_security/cloud_security_course_en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2132"
   },
   {
     "ID": 2133,
     "course_name": "Java Development SE - Sign Language",
     "main_category": "Programming",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/java-development-se-en.jpg"
+    "sub_category": "Java",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/java-development-se-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2133"
   },
   {
     "ID": 2134,
     "course_name": "Developing Mobile Applications for Android using Java - Sign Language",
-    "main_category": "Data Science & Analytics",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/developing-mobile-applications-for-android-using-java-en.jpg"
+    "main_category": "Mobile Development",
+    "sub_category": "Java",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/developing-mobile-applications-for-android-using-java-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2134"
   },
   {
     "ID": 2144,
     "course_name": "OWASP Top 10 (Web) 2021",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/OWASP-Top-10-(Web)-en.jpg"
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/OWASP-Top-10-(Web)-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2144"
   },
   {
     "ID": 2145,
     "course_name": "IoT system integrator",
     "main_category": "Internet of Things (IoT)",
-    "cover": null
+    "sub_category": "IoT",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2145"
   },
   {
     "ID": 2146,
     "course_name": "Java Web Developer",
-    "main_category": "Web Development",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2146"
   },
   {
     "ID": 2155,
     "course_name": "Ubuntu Linux Essentials",
     "main_category": "Linux & System Administration",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/LINUX/Ubuntu-Linux-course-banner.jpg"
+    "sub_category": "Linux & Red Hat",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/LINUX/Ubuntu-Linux-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2155"
   },
   {
     "ID": 2164,
     "course_name": "3D Game Art Production Workflows - Sign Language",
     "main_category": "Game Development & 3D",
-    "cover": null
+    "sub_category": "3D Animation",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2164"
   },
   {
     "ID": 2165,
     "course_name": "AI Career Road Map - Sign Language",
     "main_category": "Artificial Intelligence",
-    "cover": null
+    "sub_category": "AI",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2165"
   },
   {
     "ID": 2173,
     "course_name": "Career RoadMap for XR Technologies - Sign Language",
-    "main_category": "Freelancing & Career Development",
-    "cover": null
+    "main_category": "Game Development & 3D",
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2173"
   },
   {
     "ID": 2174,
     "course_name": "Business Intelligence (BI) Career Roadmap - Sign Language",
     "main_category": "Data Science & Analytics",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2174"
   },
   {
     "ID": 2175,
     "course_name": "Career RoadMap for Data Analytics - Sign Language",
     "main_category": "Data Science & Analytics",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2175"
   },
   {
     "ID": 2176,
     "course_name": "3D Animation Movie Production Pipeline - Sign Language",
     "main_category": "Game Development & 3D",
-    "cover": null
+    "sub_category": "3D Animation",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2176"
   },
   {
     "ID": 2177,
     "course_name": "Telecom Applications Job Profiles - Sign Language",
-    "main_category": "Networking",
-    "cover": null
+    "main_category": "Network",
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2177"
   },
   {
     "ID": 2178,
     "course_name": "IoT Career Road Map - Sign Language",
     "main_category": "Internet of Things (IoT)",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2178"
   },
   {
     "ID": 2179,
     "course_name": "Career Road Map - GIS - Sign Language",
     "main_category": "GIS",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2179"
   },
   {
     "ID": 2180,
     "course_name": "GIS Analyst & GIS Developer Job Profile - Sign Language",
     "main_category": "GIS",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2180"
   },
   {
     "ID": 2181,
     "course_name": "Introduction to cyber security domains - Sign Language",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2181"
   },
   {
     "ID": 2182,
     "course_name": "Intro to Cyber security and Main Job Profiles - Sign Language",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2182"
   },
   {
     "ID": 2183,
     "course_name": "Career Road Map - Cyber Security - Sign Language",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2183"
   },
   {
     "ID": 2184,
     "course_name": "Malware Analyst Job profile - Sign Language",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2184"
   },
   {
     "ID": 2185,
     "course_name": "Network Security Engineer Job profile - Sign Language",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2185"
   },
   {
     "ID": 2186,
     "course_name": "Wireless Security Engineer Job profile - Sign Language",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2186"
   },
   {
     "ID": 2188,
     "course_name": "Android Application Developer Job Profile - Sign Language",
     "main_category": "Mobile Development",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2188"
   },
   {
     "ID": 2189,
     "course_name": "Elearning Career Road Map - Sign Language",
-    "main_category": "Freelancing & Career Development",
-    "cover": null
+    "main_category": "eLearning",
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2189"
   },
   {
     "ID": 2190,
     "course_name": "Instructional Designer & eLearning Specialist Job profile - Sign Language",
-    "main_category": "Freelancing & Career Development",
-    "cover": null
+    "main_category": "eLearning",
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2190"
   },
   {
     "ID": 2191,
     "course_name": "E-Content Developer Job Profile - Sign Language",
-    "main_category": "Freelancing & Career Development",
-    "cover": null
+    "main_category": "Game Development & 3D",
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2191"
   },
   {
     "ID": 2192,
     "course_name": "DevOps Intro & Cloud Development Job Profiles - Sign Language",
-    "main_category": "DevOps",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2192"
   },
   {
     "ID": 2193,
     "course_name": "Cloud Computing _ Intro &Career Road Map - Sign Language",
     "main_category": "Cloud Computing",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2193"
   },
   {
     "ID": 2194,
     "course_name": "Start Your Career in Digital Marketing",
     "main_category": "Digital Marketing",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Digital-Marketing/Start-Your-Career-course-banner.jpg"
+    "sub_category": "Digital Marketing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Digital-Marketing/Start-Your-Career-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2194"
   },
   {
     "ID": 2195,
     "course_name": "Maven Essentials Training",
-    "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/Maven-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/Maven-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2195"
   },
   {
     "ID": 2196,
     "course_name": "Kaggle Unleashed \"Accelerate Your Journey in AI and Data Science\"",
     "main_category": "Artificial Intelligence",
-    "cover": null
+    "sub_category": "AI",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2196"
   },
   {
     "ID": 2203,
     "course_name": "Deep web VS. Dark web - Sign Language",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Cybersecurity",
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2203"
   },
   {
     "ID": 2204,
     "course_name": "The HUMAN ELEMENT in a new business - Sign Language",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Bussiness & Entrepreneurship",
+    "sub_category": "Bussiness & Entrepreneurship",
+    "Sign_Language": "true",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2204"
   },
   {
     "ID": 2206,
     "course_name": "Mastering Object-Oriented Programming (OOP) using C++",
     "main_category": "Programming",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/OOP%29-using-C%2B%2B-course-banner.jpg"
+    "sub_category": "C++",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/OOP%29-using-C%2B%2B-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2206"
   },
   {
     "ID": 2233,
     "course_name": "Java IO and Network Programming",
     "main_category": "Programming",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/Java-IO-course-banner.jpg"
+    "sub_category": "Java",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/Java-IO-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2233"
   },
   {
     "ID": 2234,
     "course_name": "Cyber Security Career Banking Industry",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2234"
   },
   {
     "ID": 2237,
     "course_name": "Generative AI",
     "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/ai/Generative-Ai-Course-banner.jpg"
+    "sub_category": "Generative AI",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/ai/Generative-Ai-Course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2237"
   },
   {
     "ID": 2242,
     "course_name": "Ramadan Competition",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "maharatech",
+    "sub_category": "maharatech",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2242"
   },
   {
     "ID": 2243,
     "course_name": "TensorFlow 2: Sequential APIs Mastery",
     "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/pluginfile.php/558649/course/overviewfiles/Practical-ML-for-Data-Scientists-Track-banner.jpg"
+    "sub_category": "AI",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/pluginfile.php/558649/course/overviewfiles/Practical-ML-for-Data-Scientists-Track-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2243"
   },
   {
     "ID": 2244,
     "course_name": "Implementing DevSecOps Using Owasp Tools",
-    "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Implementing-DevSecOps-Using-Owasp-Tools-en.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "DevSecOps",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Implementing-DevSecOps-Using-Owasp-Tools-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2244"
   },
   {
     "ID": 2245,
     "course_name": "Asynchronous Web Development",
-    "main_category": "Web Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/Asynchronous-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/Asynchronous-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2245"
   },
   {
     "ID": 2246,
     "course_name": "Java Database Connectivity (JDBC)",
-    "main_category": "Databases",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/Java-Database-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Databases",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/Java-Database-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2246"
   },
   {
     "ID": 2247,
     "course_name": "C Programming From Basics to Mastery",
     "main_category": "Programming",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Embedded-system/C-Programming-course-banner.jpg"
+    "sub_category": "C",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Embedded-system/C-Programming-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2247"
   },
   {
     "ID": 2248,
     "course_name": "Building Dynamic Web Applications using Servlets and JSP",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/Building-Dynamic-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/Building-Dynamic-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2248"
   },
   {
     "ID": 2250,
     "course_name": "RPA using UiPath - Explorer Training",
     "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/ai/rpa/RPA-using-UiPath-ex-course-banner.jpg"
+    "sub_category": "Automation",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/ai/rpa/RPA-using-UiPath-ex-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2250"
   },
   {
     "ID": 2253,
     "course_name": "Exploring SwiftUI: Creating Declarative User Interfaces",
-    "main_category": "UI/UX & Design",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOS/Exploring-SwiftUI-course-banner.jpg"
+    "main_category": "Digital Arts",
+    "sub_category": "UI/UX & Design",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOS/Exploring-SwiftUI-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2253"
   },
   {
     "ID": 2254,
     "course_name": "AI for Digital Marketing: Applications in Online Business",
-    "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Digital-Marketing/Online-Business-course-banner.jpg"
+    "main_category": "Digital Marketing",
+    "sub_category": "AI & Digital Marketing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Digital-Marketing/Online-Business-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2254"
   },
   {
     "ID": 2255,
     "course_name": "OWASP Top 10 (Mobile) 2016",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/OWASP-Top-10-(mobile)-2016-en.jpg"
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/OWASP-Top-10-(mobile)-2016-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2255"
   },
   {
     "ID": 2256,
     "course_name": "SOC Analyst Job Profile",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2256"
   },
   {
     "ID": 2257,
     "course_name": "Legal Regulations of Blockchain and Cryptocurrency",
-    "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Legal Regulations of Blockchain and Cryptocurrency.jpg"
+    "main_category": "Blockchain",
+    "sub_category": "Legal Regulations of Blockchain",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Legal Regulations of Blockchain and Cryptocurrency.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2257"
   },
   {
     "ID": 2258,
     "course_name": "Reactive Programming in iOS: RXSwift Essentials",
     "main_category": "Mobile Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOS/RXSwift-Essentials-course-banner.jpg"
+    "sub_category": "iOS",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOS/RXSwift-Essentials-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2258"
   },
   {
     "ID": 2259,
     "course_name": "Designing Engaging eLearning Activities: Strategies for Effective Online Learning",
     "main_category": "eLearning",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/Designing-Engaging-course-banner.jpg"
+    "sub_category": "eLearning",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/Designing-Engaging-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2259"
   },
   {
     "ID": 2260,
     "course_name": "Power Measurement in Electric Vehicles",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/industrry%20partners/Vector.jpg"
+    "main_category": "Electric Vehicles",
+    "sub_category": "Electric Vehicles",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/industrry%20partners/Vector.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2260"
   },
   {
     "ID": 2261,
     "course_name": "SW Verification and Validation for Functional Safety in EV",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/industrry%20partners/Vector.jpg"
+    "main_category": "Electric Vehicles",
+    "sub_category": "Electric Vehicles",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/industrry%20partners/Vector.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2261"
   },
   {
     "ID": 2262,
     "course_name": "Intelligent Charging Solution for Rapid Development of EVCC",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/industrry%20partners/Vector.jpg"
+    "main_category": "Electric Vehicles",
+    "sub_category": "Electric Vehicles",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/industrry%20partners/Vector.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2262"
   },
   {
     "ID": 2263,
     "course_name": "PREEvision as a Development Environment for Electric Vehicles",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/industrry%20partners/Vector.jpg"
+    "main_category": "Electric Vehicles",
+    "sub_category": "Electric Vehicles",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/industrry%20partners/Vector.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2263"
   },
   {
     "ID": 2264,
     "course_name": "E-Mobility Smart Solutions",
-    "main_category": "Data Science & Analytics",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/industrry%20partners/Vector.jpg"
+    "main_category": "Electric Vehicles",
+    "sub_category": "Electric Vehicles",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/industrry%20partners/Vector.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2264"
   },
   {
     "ID": 2265,
     "course_name": "Industrial Automation Career Roadmap",
-    "main_category": "Freelancing & Career Development",
-    "cover": null
+    "main_category": "eLearning",
+    "sub_category": "Career Development",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2265"
   },
   {
     "ID": 2266,
     "course_name": "Assessment Design Mastery: From Theory to Practice",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/Assessment-Design-course-banner.jpg"
+    "main_category": "eLearning",
+    "sub_category": "Assessment Design",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/Assessment-Design-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2266"
   },
   {
     "ID": 2267,
     "course_name": "Test Course",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "maharatech",
+    "sub_category": "maharatech",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2267"
   },
   {
     "ID": 2268,
     "course_name": "CS50  for Lawyers",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2268"
   },
   {
     "ID": 2269,
     "course_name": "Comprehensive Guide to JavaFX Essentials",
     "main_category": "Programming",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/Comprehensive-course-banner.jpg"
+    "sub_category": "Java",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Java/Comprehensive-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2269"
   },
   {
     "ID": 2270,
     "course_name": "Legal Regulations of AI",
     "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Legal Regulations of AI.jpg"
+    "sub_category": "Legal Regulations",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Legal Regulations of AI.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2270"
   },
   {
     "ID": 2271,
     "course_name": "Embedded C: Hardware Essentials and Device Driver Development",
-    "main_category": "Embedded Systems",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Embedded-system/Embedded-C-course-banner.jpg"
+    "main_category": "Embedded Systems & Robotics",
+    "sub_category": "Embedded",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Embedded-system/Embedded-C-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2271"
   },
   {
     "ID": 2272,
     "course_name": "Data protection and privacy laws",
     "main_category": "Cloud Computing",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Data protection and privacy laws 1.jpg"
+    "sub_category": "Cloud Regulations",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Data protection and privacy laws 1.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2272"
   },
   {
     "ID": 2273,
     "course_name": "Java Desktop Application Developer",
     "main_category": "Programming",
-    "cover": null
+    "sub_category": "Java",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2273"
   },
   {
     "ID": 2274,
     "course_name": "Linux administrator",
     "main_category": "Linux & System Administration",
-    "cover": null
+    "sub_category": "Linux & Red Hat",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2274"
   },
   {
     "ID": 2276,
     "course_name": "Database Developer",
-    "main_category": "Databases",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Databases",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2276"
   },
   {
     "ID": 2277,
     "course_name": "RPA developer",
-    "main_category": "Other",
-    "cover": null
+    "main_category": "Embedded Systems & Robotics",
+    "sub_category": "Robotics",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2277"
   },
   {
     "ID": 2278,
     "course_name": "Mastering TCL Shell Scripting",
     "main_category": "Linux & System Administration",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IC-Design/TCL-Shell-course-banner.jpg"
+    "sub_category": "Shell Scripting",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IC-Design/TCL-Shell-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2278"
   },
   {
     "ID": 2282,
     "course_name": "Computer Vision Engineer",
     "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/pluginfile.php/558649/course/overviewfiles/Practical-ML-for-Data-Scientists-Track-banner.jpg"
+    "sub_category": "Computer Vision",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/pluginfile.php/558649/course/overviewfiles/Practical-ML-for-Data-Scientists-Track-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2282"
   },
   {
     "ID": 2283,
     "course_name": "NLP Engineer",
     "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/pluginfile.php/558649/course/overviewfiles/Practical-ML-for-Data-Scientists-Track-banner.jpg"
+    "sub_category": "NLP",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/pluginfile.php/558649/course/overviewfiles/Practical-ML-for-Data-Scientists-Track-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2283"
   },
   {
     "ID": 2284,
     "course_name": "Introduction to High Performance Computing (HPC)",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/HPC/HPC-course-banner.jpg"
+    "main_category": "Computer Resources & HPC",
+    "sub_category": "HPC",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/HPC/HPC-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2284"
   },
   {
     "ID": 2287,
     "course_name": "Digital Twin Technology: Concepts and Applications",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/Banners/Digital_Twin_EN.jpg"
+    "main_category": "Twin Technology",
+    "sub_category": "Twin Technology",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/Banners/Digital_Twin_EN.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2287"
   },
   {
     "ID": 2288,
     "course_name": "Transact SQL queries using SQL server",
-    "main_category": "Databases",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Databases",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2288"
   },
   {
     "ID": 2289,
     "course_name": "UiPath Automation Developer - Advanced Training",
     "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/ai/rpa/RPA-using-UiPath-course%20banner.jpg"
+    "sub_category": "Automation",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/ai/rpa/RPA-using-UiPath-course%20banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2289"
   },
   {
     "ID": 2294,
     "course_name": "Exploring Generative AI: Tools, Use Cases and Future Trends",
     "main_category": "Artificial Intelligence",
-    "cover": null
+    "sub_category": "Generative AI",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2294"
   },
   {
     "ID": 2295,
     "course_name": "Computational Thinking",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Computational-Thinking.jpg"
+    "main_category": "Programming",
+    "sub_category": "Basics",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Computational-Thinking.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2295"
   },
   {
     "ID": 2297,
     "course_name": "Digital Art Basics: Exploring Photoshop Tools and Techniques",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/2D-gameart/Digital-Art-course-banner.jpg"
+    "main_category": "Digital Arts",
+    "sub_category": "Photoshop",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/2D-gameart/Digital-Art-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2297"
   },
   {
     "ID": 2299,
     "course_name": "Gen-AI: Tools for the Modern Developer",
     "main_category": "Artificial Intelligence",
-    "cover": null
+    "sub_category": "Generative AI",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2299"
   },
   {
     "ID": 2300,
     "course_name": "Deep Learning with PyTorch  From Concepts to Applications (Vision and NLP)",
     "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/ai/Foundation%20Courses/Deep-Learning-with-PyTorch-course-banner.jpg"
+    "sub_category": "Deep Learning",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/ai/Foundation%20Courses/Deep-Learning-with-PyTorch-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2300"
   },
   {
     "ID": 2301,
     "course_name": "Legal and Regulatory Frameworks for Cloud Computing",
     "main_category": "Cloud Computing",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Legal and Regulatory Frameworks for Cloud Computing.jpg"
+    "sub_category": "Cloud Regulations",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Legal and Regulatory Frameworks for Cloud Computing.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2301"
   },
   {
     "ID": 2304,
     "course_name": "The Essentials of Digital Forensics: From Basics to Practice",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/The-Essentials-of-Digital-Forensics-From-Basics-to-Practice-coursebanner.jpg"
+    "sub_category": "Digital Forensics",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/The-Essentials-of-Digital-Forensics-From-Basics-to-Practice-coursebanner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2304"
   },
   {
     "ID": 2305,
     "course_name": "Implementing and Developing SQL server objects",
-    "main_category": "Databases",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Database/Implementing-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Databases",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Database/Implementing-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2305"
   },
   {
     "ID": 2306,
     "course_name": "Microsoft SQL Developer",
-    "main_category": "Databases",
-    "cover": null
+    "main_category": "Software Engineering",
+    "sub_category": "Databases",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2306"
   },
   {
     "ID": 2307,
     "course_name": "Developing Mobile IoT application for indoor and outdoor positioning",
-    "main_category": "Data Science & Analytics",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOT/Developing-Mobile-course-banner.jpg"
+    "main_category": "Mobile Development",
+    "sub_category": "Developing Mobile IoT application",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IOT/Developing-Mobile-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2307"
   },
   {
     "ID": 2308,
     "course_name": "Digital Forensics: Analyzing Memory and Network Traffic",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/Digital-Forensics-Analyzing-Memory-and-Network-Traffic-coursebanner.jpg"
+    "sub_category": "Digital Forensics",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/Digital-Forensics-Analyzing-Memory-and-Network-Traffic-coursebanner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2308"
   },
   {
     "ID": 2309,
     "course_name": "Test Automation Guidelines with Selenium and TestNG",
-    "main_category": "Software Testing & QA",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Software%20Testing/Test-Automation-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Software Testing & QA",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Software%20Testing/Test-Automation-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2309"
   },
   {
     "ID": 2311,
     "course_name": "Legal Regulation of Entrepreneurship and Startups",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Legal Regulation of Entrepreneurship and Startups.jpg"
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Legal Regulation of Entrepreneurship and Startups.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2311"
   },
   {
     "ID": 2319,
-    "course_name": "Legal Frameworks for Cybercrimes - Podcast",
+    "course_name": "Legal Frameworks for Cybercrimes – Podcast",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Cybercrime and Digital Evidence .jpg"
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Cybercrime and Digital Evidence .jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2319"
   },
   {
     "ID": 2320,
     "course_name": "Advanced Digital Forensics: File Systems, Mobile Devices, OSINT",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/Advanced-Digital-Forensics-File-Systems,-Mobile-Devices,-OSINT-coursebanner.jpg"
+    "sub_category": "Digital Forensics",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/Advanced-Digital-Forensics-File-Systems,-Mobile-Devices,-OSINT-coursebanner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2320"
   },
   {
     "ID": 2321,
     "course_name": "Importance of intellectual property & international Treaties",
-    "main_category": "Legal & Technology",
-    "cover": null
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2321"
   },
   {
     "ID": 2322,
     "course_name": "Patent system and Integrated Circuits Protection (A Comprehensive Perspective)",
     "main_category": "Electronics & IC Design",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/(Patent-system-and-Integrated-Circuits-Protection.jpg"
+    "sub_category": "Patent system",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/(Patent-system-and-Integrated-Circuits-Protection.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2322"
   },
   {
     "ID": 2323,
     "course_name": "Alternative Means of Protection for Inventions (Utility Models – Trade Secrets)",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/Alternative-Means-of-Protection-for-Inventions.jpg"
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/Alternative-Means-of-Protection-for-Inventions.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2323"
   },
   {
     "ID": 2324,
     "course_name": "Legal prosecutions of Trademarks in EG Law and int. Agreements (soon)",
-    "main_category": "Legal & Technology",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/Legal-prosecutions-of-Trademarks-in-EG-Law-and-int.-Agreements.jpg"
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/Legal-prosecutions-of-Trademarks-in-EG-Law-and-int.-Agreements.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2324"
   },
   {
     "ID": 2325,
     "course_name": "Legal prosecutions of Industrial Designs in EG Law and int. Agreements (soon)",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/Legal-prosecutions-of-Industrial-Designs-in-EG-Law-and-int.-Agreements.jpg"
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/Legal-prosecutions-of-Industrial-Designs-in-EG-Law-and-int.-Agreements.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2325"
   },
   {
     "ID": 2326,
     "course_name": "IP & Unfair Competition",
-    "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/IP-&amp;-Unfair-Competition.jpg"
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/IP-&amp;-Unfair-Competition.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2326"
   },
   {
     "ID": 2327,
     "course_name": "Copyright & Related Rights in Egyptian Legislation",
-    "main_category": "GIS",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/Copyright-&amp;-Related-Rights-in-Egyptian-Legislation.jpg"
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/Copyright-&amp;-Related-Rights-in-Egyptian-Legislation.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2327"
   },
   {
     "ID": 2328,
     "course_name": "Contract Terms Ensuring Validity in IP Exploitation",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/Contract-Terms-Ensuring-Validity-in-IP-Exploitation.jpg"
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/Contract-Terms-Ensuring-Validity-in-IP-Exploitation.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2328"
   },
   {
     "ID": 2329,
     "course_name": "IP, Traditional Knowledge, Genetic Resources and Traditional Culture Expressions",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/IP,-Traditional-Knowledge,-Genetic-Resources-and-Traditional.jpg"
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/IP,-Traditional-Knowledge,-Genetic-Resources-and-Traditional.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2329"
   },
   {
     "ID": 2330,
     "course_name": "Protection of Geographical Indications in National Legislations & International Agreements",
-    "main_category": "GIS",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/Protection-of-Geographical-Indications-in-National-Legislations-&amp;.jpg"
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/Protection-of-Geographical-Indications-in-National-Legislations-&amp;.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2330"
   },
   {
     "ID": 2331,
     "course_name": "Protection of new varieties of plants",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/Protection-of-new-varieties-of-plants.jpg"
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/ip/Protection-of-new-varieties-of-plants.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2331"
   },
   {
     "ID": 2333,
     "course_name": "Cryptography: Principles, Techniques, and Applications",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/encryption-cybersecurity.jpg"
+    "sub_category": "Cryptography",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/encryption-cybersecurity.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2333"
   },
   {
     "ID": 2334,
     "course_name": "Computational Thinking",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/computational-thinking-B.jpg"
+    "main_category": "Programming",
+    "sub_category": "Basics",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/computational-thinking-B.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2334"
   },
   {
     "ID": 2335,
     "course_name": "Programming Languages",
     "main_category": "Programming",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/intro-programming-languages-B.jpg"
+    "sub_category": "Basics",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/intro-programming-languages-B.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2335"
   },
   {
     "ID": 2336,
     "course_name": "Algorithms, Data Structures",
     "main_category": "Programming",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/algorithms-data-structures-B.jpg"
+    "sub_category": "Basics",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/algorithms-data-structures-B.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2336"
   },
   {
     "ID": 2337,
     "course_name": "Web Programming",
-    "main_category": "Web Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/web-development-B.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/web-development-B.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2337"
   },
   {
     "ID": 2338,
     "course_name": "Database Design",
-    "main_category": "Databases",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/database-design-management-B.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Databases",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/database-design-management-B.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2338"
   },
   {
     "ID": 2339,
     "course_name": "Internet Technologies, Cloud Computing",
     "main_category": "Cloud Computing",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/internet-cloud-tech-B.jpg"
+    "sub_category": "Cloud Computing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/internet-cloud-tech-B.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2339"
   },
   {
     "ID": 2340,
     "course_name": "Cryptography",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/encryption-cybersecurity-B.jpg"
+    "sub_category": "Cryptography",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/encryption-cybersecurity-B.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2340"
   },
   {
     "ID": 2341,
     "course_name": "Cybersecurity I",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/cybersecurity-techniques-B.jpg"
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/cybersecurity-techniques-B.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2341"
   },
   {
     "ID": 2342,
     "course_name": "Cybersecurity II",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/cybersecurity-data-protection-B.jpg"
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/cybersecurity-data-protection-B.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2342"
   },
   {
     "ID": 2343,
     "course_name": "Challenges at the Intersection of Law and Technology",
-    "main_category": "Legal & Technology",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/legal-challenges-digital-age-B.jpg"
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/harvard/legal-challenges-digital-age-B.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2343"
   },
   {
     "ID": 2344,
     "course_name": "Digital Forensics and Investigations",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/digital-forensics-and-investigations.jpg"
+    "sub_category": "Digital Forensics",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/digital-forensics-and-investigations.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2344"
   },
   {
     "ID": 2345,
     "course_name": "Getting Started with Web Development: HTML, CSS & JavaScript",
-    "main_category": "Web Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Getting-Started-with-Web-Development-Banner-size.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Web Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Getting-Started-with-Web-Development-Banner-size.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2345"
   },
   {
     "ID": 2349,
     "course_name": "Legal Tech Talks",
-    "main_category": "Legal & Technology",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Legal-TAlk.png"
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/Legal-TAlk.png",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2349"
   },
   {
     "ID": 2350,
     "course_name": "Generative AI and the Future of Digital Learning Content",
-    "main_category": "Artificial Intelligence",
-    "cover": null
+    "main_category": "eLearning",
+    "sub_category": "AI in eLearning",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2350"
   },
   {
     "ID": 2351,
     "course_name": "AI Apps in EdTech for Educators and Instructors",
-    "main_category": "Artificial Intelligence",
-    "cover": null
+    "main_category": "eLearning",
+    "sub_category": "AI in eLearning",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2351"
   },
   {
     "ID": 2352,
     "course_name": "Towards Responsible AI in Education",
-    "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/Towards%20Responsible%20AI%20in%20Education.png"
+    "main_category": "eLearning",
+    "sub_category": "AI in eLearning",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/E-Learning/Towards%20Responsible%20AI%20in%20Education.png",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2352"
   },
   {
     "ID": 2353,
     "course_name": "The Legal Framework for Digital Technology and Communications in Egypt",
-    "main_category": "Legal & Technology",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/The-legal-framework-for-digital-Communications-coursebanner.jpg"
+    "main_category": "Law & Technology",
+    "sub_category": "Law & Technology",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/CoursesImgs/The-legal-framework-for-digital-Communications-coursebanner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2353"
   },
   {
     "ID": 2354,
     "course_name": "Incident Handling: Malware, Email, Network and Web Security",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/incedint-handling-coursebanner.jpg"
+    "sub_category": "Incident Response",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/incedint-handling-coursebanner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2354"
   },
   {
     "ID": 2355,
     "course_name": "The Legal Guide to Cybercrimes: Concepts and Practices",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/Cybercrimes.png"
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/law/Cybercrimes.png",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2355"
   },
   {
     "ID": 2356,
     "course_name": "GIS Principles & Techniques",
     "main_category": "GIS",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/GIS/GIS-Principles-course-banner.jpg"
+    "sub_category": "GIS",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/GIS/GIS-Principles-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2356"
   },
   {
     "ID": 2357,
     "course_name": "Web PenTesting in Practice: Recon to Remediation",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/webpentesting-coursebanner.jpg"
+    "sub_category": "Penetration Testing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/webpentesting-coursebanner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2357"
   },
   {
     "ID": 2358,
     "course_name": "Developing Gen-AI Powered and Agentic Applications",
     "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/Developing-Gen-AI-Powered-and-Agentic-Applications-coursebanner.jpg"
+    "sub_category": "Agentic AI",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/Developing-Gen-AI-Powered-and-Agentic-Applications-coursebanner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2358"
   },
   {
     "ID": 2359,
     "course_name": "Vibe coding using GitHub Copilot",
     "main_category": "Programming",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/Vibe-coding-using-GitHub-Copilot-coursebanner.jpg"
+    "sub_category": "Vibe coding",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/Vibe-coding-using-GitHub-Copilot-coursebanner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2359"
   },
   {
     "ID": 2363,
     "course_name": "Network Defense Essentials",
-    "main_category": "Networking",
-    "cover": null
+    "main_category": "Cybersecurity",
+    "sub_category": "Network Security",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2363"
   },
   {
     "ID": 2364,
     "course_name": "Ethical Hacking Essentials",
     "main_category": "Cybersecurity",
-    "cover": null
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2364"
   },
   {
     "ID": 2365,
     "course_name": "IoT Security Essentials",
-    "main_category": "Cybersecurity",
-    "cover": null
+    "main_category": "Internet of Things (IoT)",
+    "sub_category": "IoT Security",
+    "Sign_Language": "false",
+    "cover": null,
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2365"
   },
   {
     "ID": 2368,
     "course_name": "CMOS Fabrication Fundamentals",
     "main_category": "Electronics & IC Design",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/CMOS/CMOS-Fabrication-course-banner.jpg"
+    "sub_category": "Analog IC Design",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/CMOS/CMOS-Fabrication-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2368"
   },
   {
     "ID": 2369,
     "course_name": "CMOS Deposition & Patterning Techniques",
     "main_category": "Electronics & IC Design",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/CMOS/CMOS-Deposition-course-banner.jpg"
+    "sub_category": "Analog IC Design",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/CMOS/CMOS-Deposition-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2369"
   },
   {
     "ID": 2370,
     "course_name": "Advanced CMOS Integration & Simulation",
     "main_category": "Electronics & IC Design",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/CMOS/Advanced-CMOS-course-banner.jpg"
+    "sub_category": "Analog IC Design",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/CMOS/Advanced-CMOS-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2370"
   },
   {
     "ID": 2371,
     "course_name": "CMOS Analog IC Design Labs",
     "main_category": "Electronics & IC Design",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IC-Design/CMOS-Analog-Labs-course-banner.jpg"
+    "sub_category": "Analog IC Design",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IC-Design/CMOS-Analog-Labs-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2371"
   },
   {
     "ID": 2372,
     "course_name": "ISTQB Foundation Level V4.0 – From Basics to Certification",
-    "main_category": "Software Testing & QA",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Software%20Testing/ISTQB-Foundation-Level-V4.0-course-banner.jpg"
+    "main_category": "Software Engineering",
+    "sub_category": "Software Testing & QA",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/Software%20Testing/ISTQB-Foundation-Level-V4.0-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2372"
   },
   {
     "ID": 2373,
     "course_name": "AI Security Mastery: From Attacks to Defenses",
-    "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/aisec-coursebanner.png"
+    "main_category": "Cybersecurity",
+    "sub_category": "AI & Cybersecurity",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/aisec-coursebanner.png",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2373"
   },
   {
     "ID": 2374,
     "course_name": "Cyber Security for All - Sign Language",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/csAcademy/iti.png"
+    "sub_category": "Cybersecurity",
+    "Sign_Language": "true",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/csAcademy/iti.png",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2374"
   },
   {
     "ID": 2375,
     "course_name": "Human Anatomy for Artists",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/2D-gameart/Human-Anatomy-course-banner.jpg"
+    "main_category": "Digital Arts",
+    "sub_category": "Digital Arts",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/2D-gameart/Human-Anatomy-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2375"
   },
   {
     "ID": 2376,
     "course_name": "freelancing basics - schools",
     "main_category": "Freelancing & Career Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/freelancing-basics-en.jpg"
+    "sub_category": "Freelancing & Career Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/freelancing-basics-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2376"
   },
   {
     "ID": 2377,
     "course_name": "Getting started as a freelancer (Upwork)",
     "main_category": "Freelancing & Career Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/getting-started-as-a-freelancer-upwork-en.jpg"
+    "sub_category": "Freelancing & Career Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/getting-started-as-a-freelancer-upwork-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2377"
   },
   {
     "ID": 2378,
     "course_name": "Getting started as a freelancer (khamsat)",
     "main_category": "Freelancing & Career Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Getting-started-as-a-freelancer-(Khamsat)-en.jpg"
+    "sub_category": "Freelancing & Career Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Getting-started-as-a-freelancer-(Khamsat)-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2378"
   },
   {
     "ID": 2379,
     "course_name": "Getting started as a freelancer (Mostaql)",
     "main_category": "Freelancing & Career Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Getting-started-as-a-freelancer-(Mostaql)-en.jpg"
+    "sub_category": "Freelancing & Career Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/courses/en/Getting-started-as-a-freelancer-(Mostaql)-en.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2379"
   },
   {
     "ID": 2380,
     "course_name": "Find Your Freelance Fit",
     "main_category": "Freelancing & Career Development",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/FReelance-kit-coursebanner.jpg"
+    "sub_category": "Freelancing & Career Development",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/FReelance-kit-coursebanner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2380"
   },
   {
     "ID": 2381,
     "course_name": "Applied AI for Healthcare Data   (ML, Imaging, NLP, LLMs)",
     "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/AI-in-Healthcare-Banner-img.jpg"
+    "sub_category": "AI & Healthcare",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/AI-in-Healthcare-Banner-img.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2381"
   },
   {
     "ID": 2382,
     "course_name": "Digital System Design using Verilog HDL",
     "main_category": "Electronics & IC Design",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IC-Design/Verilog-HDL-course-banner.jpg"
+    "sub_category": "Digital IC Design",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/IC-Design/Verilog-HDL-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2382"
   },
   {
     "ID": 2383,
     "course_name": "Generative AI for HR Tasks: Job Descriptions, Interviews & Feedback",
-    "main_category": "Artificial Intelligence",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/ai-hr.jpg"
+    "main_category": "HR & Technology",
+    "sub_category": "AI & HR",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/ai-hr.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2383"
   },
   {
     "ID": 2384,
     "course_name": "Android Application Security & Penetration Testing",
     "main_category": "Cybersecurity",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/Android-course-banner.jpg"
+    "sub_category": "Penetration Testing",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/Android-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2384"
   },
   {
     "ID": 2385,
     "course_name": "Digital Clothing Art: Folds, Lighting & Material Rendering",
-    "main_category": "Other",
-    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/2D-gameart/Digital-Clothing-Art-Folds,-Lighting-&amp;-Material-Rendering-course-banner.jpg"
+    "main_category": "Digital Arts",
+    "sub_category": "Digital Arts",
+    "Sign_Language": "false",
+    "cover": "https://maharatech.gov.eg/theme/edumy/pix/newBanners/tracks/2D-gameart/Digital-Clothing-Art-Folds,-Lighting-&amp;-Material-Rendering-course-banner.jpg",
+    "url_course": "https://maharatech.gov.eg/course/view.php?id=2385"
   }
 ]
