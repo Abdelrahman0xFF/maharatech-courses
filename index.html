@@ -1,0 +1,1537 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MaharaTech Course Directory</title>
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="https://iti.gov.eg/assets/images/organization/ColoredLogoEmpty.ico"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --iti-red: #8d1f28;
+        --iti-red-dark: #73171f;
+        --iti-red-hover: #a61c24;
+        --iti-red-light: rgba(141, 31, 40, 0.08);
+        --iti-blue: #203367;
+        --iti-blue-light: rgba(32, 51, 103, 0.08);
+        --iti-dark: #1e2229;
+        --iti-darker: #12151b;
+        --iti-gray-bg: #f8fafc;
+        --iti-card-bg: #ffffff;
+        --iti-border: #e2e8f0;
+        --iti-text: #0f172a;
+        --iti-text-muted: #64748b;
+        --iti-gold: #d97706;
+        --iti-shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.06);
+        --iti-shadow-md:
+          0 4px 6px -1px rgba(0, 0, 0, 0.07), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+        --iti-shadow-lg:
+          0 10px 20px -3px rgba(0, 0, 0, 0.09),
+          0 4px 6px -4px rgba(0, 0, 0, 0.05);
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        font-family:
+          "Inter",
+          "Cairo",
+          -apple-system,
+          sans-serif;
+      }
+      body {
+        background-color: var(--iti-gray-bg);
+        color: var(--iti-text);
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        overflow-x: hidden;
+      }
+
+      /* Main Navbar */
+      header.navbar {
+        background-color: #ffffff;
+        border-bottom: 3px solid var(--iti-red);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0.75rem 1.5rem;
+        box-shadow: var(--iti-shadow-sm);
+        position: sticky;
+        top: 0;
+        z-index: 50;
+      }
+      .nav-left {
+        display: flex;
+        align-items: center;
+        gap: 1.25rem;
+      }
+      .menu-toggle {
+        display: none;
+        background: none;
+        border: 1px solid var(--iti-border);
+        border-radius: 6px;
+        color: var(--iti-dark);
+        font-size: 1.25rem;
+        cursor: pointer;
+        padding: 0.35rem 0.6rem;
+      }
+      .brand-group {
+        display: flex;
+        align-items: center;
+        gap: 1.1rem;
+        text-decoration: none;
+      }
+      .iti-logo-img {
+        height: 40px;
+        width: auto;
+        object-fit: contain;
+      }
+      .brand-divider {
+        width: 1px;
+        height: 30px;
+        background: var(--iti-border);
+      }
+      .maharatech-logo-img {
+        height: 32px;
+        width: auto;
+        object-fit: contain;
+      }
+
+      .nav-center {
+        flex: 0 1 480px;
+        position: relative;
+        margin: 0 1rem;
+      }
+      .search-box {
+        width: 100%;
+        background: var(--iti-gray-bg);
+        border: 1.5px solid var(--iti-border);
+        color: var(--iti-text);
+        padding: 0.65rem 1.1rem;
+        padding-right: 2.5rem;
+        border-radius: 9999px;
+        font-size: 0.9rem;
+        outline: none;
+        transition: all 0.2s ease;
+      }
+      .search-box:focus {
+        background: #ffffff;
+        border-color: var(--iti-red);
+        box-shadow: 0 0 0 3px rgba(141, 31, 40, 0.15);
+      }
+      .search-box::placeholder {
+        color: var(--iti-text-muted);
+      }
+      .clear-search-btn {
+        position: absolute;
+        right: 12px;
+        top: 50%;
+        transform: translateY(-50%);
+        background: none;
+        border: none;
+        color: var(--iti-text-muted);
+        cursor: pointer;
+        font-size: 1rem;
+        display: none;
+      }
+      .clear-search-btn:hover {
+        color: var(--iti-red);
+      }
+
+      .nav-links-right {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+      }
+      .nav-btn {
+        font-size: 0.85rem;
+        font-weight: 600;
+        text-decoration: none;
+        color: var(--iti-dark);
+        padding: 0.5rem 0.9rem;
+        border-radius: 6px;
+        transition: all 0.15s ease;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+      }
+      .nav-btn:hover {
+        color: var(--iti-red);
+        background-color: var(--iti-red-light);
+      }
+      .nav-btn-primary {
+        background-color: var(--iti-red);
+        color: #fff !important;
+      }
+      .nav-btn-primary:hover {
+        background-color: var(--iti-red-hover);
+      }
+
+      /* Layout */
+      .layout {
+        display: flex;
+        flex: 1;
+        position: relative;
+      }
+
+      /* Left Sidebar */
+      aside.sidebar {
+        width: 320px;
+        background-color: #ffffff;
+        border-right: 1px solid var(--iti-border);
+        padding: 1.5rem 1rem;
+        flex-shrink: 0;
+        transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        z-index: 40;
+        overflow-y: auto;
+        max-height: calc(100vh - 80px);
+        position: sticky;
+        top: 65px;
+      }
+      .sidebar-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 0.75rem;
+        padding: 0 0.5rem;
+      }
+      .sidebar h3 {
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: var(--iti-text-muted);
+        font-weight: 700;
+      }
+      .reset-filter-btn {
+        background: none;
+        border: none;
+        font-size: 0.75rem;
+        color: var(--iti-red);
+        font-weight: 700;
+        cursor: pointer;
+      }
+      .reset-filter-btn:hover {
+        text-decoration: underline;
+      }
+
+      .nav-link {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0.65rem 0.85rem;
+        border-radius: 8px;
+        color: var(--iti-text);
+        text-decoration: none;
+        font-size: 0.88rem;
+        font-weight: 500;
+        margin-bottom: 0.25rem;
+        transition: all 0.15s ease;
+        cursor: pointer;
+        border-left: 3px solid transparent;
+      }
+      .nav-link:hover {
+        background-color: var(--iti-red-light);
+        color: var(--iti-red);
+      }
+      .nav-link.active {
+        background-color: var(--iti-red-light);
+        color: var(--iti-red);
+        font-weight: 700;
+        border-left-color: var(--iti-red);
+      }
+      .nav-link.active .count-pill {
+        background: var(--iti-red);
+        color: #fff;
+        border-color: var(--iti-red);
+      }
+      .count-pill {
+        font-size: 0.75rem;
+        padding: 0.15rem 0.5rem;
+        border-radius: 9999px;
+        background: var(--iti-gray-bg);
+        border: 1px solid var(--iti-border);
+        color: var(--iti-text-muted);
+        font-weight: 600;
+      }
+
+      /* Mobile Drawer Backdrop */
+      .sidebar-overlay {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 35;
+        backdrop-filter: blur(2px);
+      }
+      .sidebar-overlay.active {
+        display: block;
+      }
+
+      /* Content Area */
+      main.content {
+        flex: 1;
+        padding: 1.75rem 2.25rem;
+        overflow-y: auto;
+      }
+
+      /* Hero Banner */
+      .hero {
+        background: linear-gradient(
+          135deg,
+          #15181e 0%,
+          #203367 55%,
+          #8d1f28 100%
+        );
+        color: #fff;
+        padding: 2.25rem 2.5rem;
+        border-radius: 16px;
+        margin-bottom: 2rem;
+        box-shadow: var(--iti-shadow-md);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 1.5rem;
+        position: relative;
+        overflow: hidden;
+      }
+      .hero::after {
+        content: "ITI";
+        position: absolute;
+        right: 25px;
+        bottom: -35px;
+        font-size: 9rem;
+        font-weight: 900;
+        color: rgba(255, 255, 255, 0.03);
+        pointer-events: none;
+      }
+      .hero-tag {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        background: rgba(255, 255, 255, 0.12);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        padding: 0.25rem 0.75rem;
+        border-radius: 9999px;
+        font-size: 0.78rem;
+        font-weight: 600;
+        margin-bottom: 0.75rem;
+        letter-spacing: 0.3px;
+      }
+      .hero h1 {
+        font-size: 1.85rem;
+        font-weight: 900;
+        margin-bottom: 0.4rem;
+        letter-spacing: -0.5px;
+      }
+      .hero p {
+        color: #cbd5e1;
+        font-size: 0.95rem;
+        line-height: 1.6;
+        max-width: 580px;
+      }
+      .hero-stats {
+        display: flex;
+        gap: 1.25rem;
+        background: rgba(255, 255, 255, 0.08);
+        padding: 1rem 1.5rem;
+        border-radius: 12px;
+        border: 1px solid rgba(255, 255, 255, 0.15);
+        backdrop-filter: blur(4px);
+      }
+      .stat-item {
+        text-align: center;
+      }
+      .stat-num {
+        font-size: 1.5rem;
+        font-weight: 900;
+        color: #fff;
+      }
+      .stat-label {
+        font-size: 0.72rem;
+        color: #cbd5e1;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        font-weight: 600;
+      }
+
+      /* Controls Bar */
+      .controls-bar {
+        background: #ffffff;
+        border: 1px solid var(--iti-border);
+        border-radius: 12px;
+        padding: 1rem 1.25rem;
+        margin-bottom: 1.75rem;
+        box-shadow: var(--iti-shadow-sm);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 1rem;
+      }
+      .controls-left,
+      .controls-right {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+      }
+      .control-label {
+        font-size: 0.82rem;
+        color: var(--iti-text-muted);
+        font-weight: 600;
+      }
+      .custom-select {
+        background-color: var(--iti-gray-bg);
+        border: 1px solid var(--iti-border);
+        color: var(--iti-text);
+        padding: 0.5rem 0.85rem;
+        border-radius: 8px;
+        font-size: 0.85rem;
+        font-weight: 500;
+        outline: none;
+        cursor: pointer;
+        transition: all 0.15s ease;
+      }
+      .custom-select:focus {
+        border-color: var(--iti-red);
+      }
+
+      /* View Switcher */
+      .view-switcher {
+        display: inline-flex;
+        background: var(--iti-gray-bg);
+        border: 1px solid var(--iti-border);
+        border-radius: 8px;
+        padding: 3px;
+      }
+      .view-btn {
+        background: none;
+        border: none;
+        padding: 0.4rem 0.75rem;
+        border-radius: 6px;
+        font-size: 0.82rem;
+        font-weight: 600;
+        color: var(--iti-text-muted);
+        cursor: pointer;
+        transition: all 0.15s ease;
+        display: flex;
+        align-items: center;
+        gap: 0.35rem;
+      }
+      .view-btn.active {
+        background: #ffffff;
+        color: var(--iti-red);
+        box-shadow: var(--iti-shadow-sm);
+      }
+
+      /* Cards Grid */
+      .cards-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 1.35rem;
+      }
+      .course-card {
+        background: var(--iti-card-bg);
+        border: 1px solid var(--iti-border);
+        border-radius: 12px;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+        box-shadow: var(--iti-shadow-sm);
+      }
+      .course-card:hover {
+        border-color: var(--iti-red);
+        transform: translateY(-4px);
+        box-shadow: var(--iti-shadow-lg);
+      }
+
+      .card-cover-wrapper {
+        position: relative;
+        width: 100%;
+        height: 165px;
+        background: #1e2229;
+        overflow: hidden;
+      }
+      .course-cover-img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+        transition: transform 0.3s ease;
+      }
+      .course-card:hover .course-cover-img {
+        transform: scale(1.04);
+      }
+
+      /* ITI Branded CSS Mock Cover */
+      .mock-cover {
+        width: 100%;
+        height: 165px;
+        background: linear-gradient(135deg, #15181e 0%, #203367 100%);
+        border-bottom: 1px solid var(--iti-border);
+        border-top: 4px solid var(--iti-red);
+        padding: 1.1rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        position: relative;
+        overflow: hidden;
+      }
+      .mock-cover::after {
+        content: "ITI";
+        position: absolute;
+        right: -10px;
+        bottom: -15px;
+        font-size: 4.8rem;
+        font-weight: 900;
+        color: rgba(255, 255, 255, 0.04);
+        pointer-events: none;
+      }
+      .mock-cat {
+        font-size: 0.72rem;
+        font-weight: 700;
+        color: #ffffff;
+        background: var(--iti-red);
+        padding: 0.2rem 0.55rem;
+        border-radius: 4px;
+        align-self: flex-start;
+        text-transform: uppercase;
+        max-width: 90%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      .mock-title {
+        font-size: 0.95rem;
+        font-weight: 700;
+        color: #fff;
+        line-height: 1.4;
+        display: -webkit-box;
+        line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      .mock-foot {
+        font-size: 0.72rem;
+        color: #94a3b8;
+        font-weight: 600;
+        letter-spacing: 0.3px;
+      }
+
+      .card-body {
+        padding: 1.25rem;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        flex: 1;
+        justify-content: space-between;
+      }
+      .card-meta {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 0.5rem;
+      }
+      .badge-id {
+        font-size: 0.75rem;
+        font-weight: 700;
+        color: var(--iti-red);
+        background: var(--iti-red-light);
+        padding: 0.2rem 0.55rem;
+        border-radius: 6px;
+      }
+      .badge-category {
+        font-size: 0.75rem;
+        font-weight: 600;
+        color: var(--iti-blue);
+        background: var(--iti-blue-light);
+        padding: 0.2rem 0.55rem;
+        border-radius: 6px;
+        max-width: 175px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      .course-name {
+        font-size: 1rem;
+        font-weight: 700;
+        line-height: 1.45;
+        color: var(--iti-dark);
+      }
+      .launch-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.4rem;
+        padding: 0.65rem 1rem;
+        background: var(--iti-red);
+        border: 1px solid var(--iti-red);
+        border-radius: 8px;
+        color: #fff;
+        font-size: 0.88rem;
+        font-weight: 600;
+        text-decoration: none;
+        transition: all 0.2s ease;
+      }
+      .launch-btn:hover {
+        background: var(--iti-red-hover);
+        border-color: var(--iti-red-hover);
+      }
+
+      /* Compact List View */
+      .list-view-container {
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+      }
+      .list-course-item {
+        background: #ffffff;
+        border: 1px solid var(--iti-border);
+        border-radius: 10px;
+        padding: 1rem 1.25rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+        transition: all 0.15s ease;
+      }
+      .list-course-item:hover {
+        border-color: var(--iti-red);
+        box-shadow: var(--iti-shadow-sm);
+      }
+      .list-item-left {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        flex: 1;
+      }
+      .list-item-info {
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+      }
+      .list-item-title {
+        font-size: 0.95rem;
+        font-weight: 700;
+        color: var(--iti-dark);
+      }
+
+      /* Category Section */
+      .category-section {
+        margin-bottom: 3.5rem;
+      }
+      .category-header {
+        font-size: 1.35rem;
+        font-weight: 800;
+        padding-bottom: 0.6rem;
+        margin-bottom: 1.25rem;
+        border-bottom: 2px solid var(--iti-border);
+        color: var(--iti-dark);
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+      }
+
+      /* Pagination Bar */
+      .pagination-bar {
+        margin-top: 2.5rem;
+        margin-bottom: 2rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 1rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid var(--iti-border);
+      }
+      .pagination-info {
+        font-size: 0.88rem;
+        color: var(--iti-text-muted);
+        font-weight: 500;
+      }
+      .pagination-controls {
+        display: flex;
+        align-items: center;
+        gap: 0.35rem;
+      }
+      .page-btn {
+        min-width: 38px;
+        height: 38px;
+        padding: 0 0.5rem;
+        background: #ffffff;
+        border: 1px solid var(--iti-border);
+        border-radius: 8px;
+        color: var(--iti-text);
+        font-size: 0.88rem;
+        font-weight: 600;
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.15s ease;
+      }
+      .page-btn:hover:not(:disabled) {
+        border-color: var(--iti-red);
+        color: var(--iti-red);
+      }
+      .page-btn.active {
+        background: var(--iti-red);
+        color: #fff;
+        border-color: var(--iti-red);
+      }
+      .page-btn:disabled {
+        opacity: 0.4;
+        cursor: not-allowed;
+      }
+      .page-ellipsis {
+        padding: 0 0.25rem;
+        color: var(--iti-text-muted);
+      }
+
+      /* Footer */
+      footer.iti-footer {
+        background-color: var(--iti-darker);
+        color: #94a3b8;
+        border-top: 3px solid var(--iti-red);
+        padding: 2rem 1.5rem;
+        margin-top: auto;
+      }
+      .footer-container {
+        max-width: 1280px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 1.25rem;
+      }
+      .footer-text {
+        font-size: 0.88rem;
+        line-height: 1.5;
+        color: #cbd5e1;
+      }
+      .footer-links {
+        display: flex;
+        gap: 1.25rem;
+        font-size: 0.85rem;
+      }
+      .footer-links a {
+        color: #94a3b8;
+        text-decoration: none;
+        transition: color 0.15s;
+      }
+      .footer-links a:hover {
+        color: #fff;
+      }
+
+      /* Floating Scroll-to-Top Button */
+      .scroll-top-btn {
+        position: fixed;
+        bottom: 25px;
+        right: 25px;
+        width: 44px;
+        height: 44px;
+        border-radius: 50%;
+        background: var(--iti-dark);
+        color: #fff;
+        border: 2px solid var(--iti-red);
+        font-size: 1.1rem;
+        cursor: pointer;
+        box-shadow: var(--iti-shadow-lg);
+        display: none;
+        align-items: center;
+        justify-content: center;
+        z-index: 90;
+        transition: all 0.2s ease;
+      }
+      .scroll-top-btn:hover {
+        background: var(--iti-red);
+        transform: translateY(-3px);
+      }
+
+      /* Empty State */
+      .empty-state {
+        text-align: center;
+        padding: 4rem 1.5rem;
+        background: #ffffff;
+        border: 1px dashed var(--iti-border);
+        border-radius: 12px;
+        color: var(--iti-text-muted);
+      }
+      .empty-state h4 {
+        font-size: 1.15rem;
+        color: var(--iti-dark);
+        margin-bottom: 0.5rem;
+      }
+
+      /* Responsive */
+      @media (max-width: 900px) {
+        .menu-toggle {
+          display: block;
+        }
+        aside.sidebar {
+          position: fixed;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          max-height: 100vh;
+          transform: translateX(-100%);
+          box-shadow: 4px 0 20px rgba(0, 0, 0, 0.2);
+        }
+        aside.sidebar.open {
+          transform: translateX(0);
+        }
+        main.content {
+          padding: 1.25rem 1rem;
+        }
+        .nav-center {
+          flex: 0 1 220px;
+        }
+        .nav-links-right {
+          display: none;
+        }
+        .hero {
+          padding: 1.75rem 1.5rem;
+        }
+        .hero h1 {
+          font-size: 1.45rem;
+        }
+      }
+
+      @media (max-width: 650px) {
+        .brand-divider,
+        .maharatech-logo-img {
+          display: none;
+        }
+        .controls-bar {
+          flex-direction: column;
+          align-items: stretch;
+        }
+        .controls-left,
+        .controls-right {
+          justify-content: space-between;
+          width: 100%;
+        }
+        .cards-grid {
+          grid-template-columns: 1fr;
+        }
+        .pagination-bar {
+          flex-direction: column;
+          align-items: center;
+        }
+        .footer-container {
+          flex-direction: column;
+          text-align: center;
+        }
+      }
+
+      ::-webkit-scrollbar {
+        width: 6px;
+        height: 6px;
+      }
+      ::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #cbd5e1;
+        border-radius: 4px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #94a3b8;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Header -->
+    <header class="navbar">
+      <div class="nav-left">
+        <button
+          class="menu-toggle"
+          id="menuToggle"
+          aria-label="Toggle tracks menu"
+        >
+          ☰
+        </button>
+        <div class="brand-group">
+          <a
+            href="https://iti.gov.eg"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="ITI Portal"
+          >
+            <img
+              src="https://iti.gov.eg/assets/images/organization/iti-logo-text.png"
+              alt="ITI Logo"
+              class="iti-logo-img"
+            />
+          </a>
+        </div>
+      </div>
+
+      <div class="nav-center">
+        <input
+          type="text"
+          id="searchInput"
+          class="search-box"
+          placeholder="Search tracks & courses (Ctrl + K)..."
+        />
+        <button
+          id="clearSearchBtn"
+          class="clear-search-btn"
+          title="Clear search"
+        >
+          ✕
+        </button>
+      </div>
+
+      <div class="nav-links-right">
+        <a
+          href="https://iti.gov.eg/home"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="nav-btn"
+          >ITI Portal ↗</a
+        >
+        <a
+          href="https://maharatech.gov.eg"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="nav-btn nav-btn-primary"
+          >MaharaTech ↗</a
+        >
+      </div>
+    </header>
+
+    <!-- Layout Container -->
+    <div class="layout">
+      <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+      <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+          <h3>Specializations & Tracks</h3>
+          <button id="resetCategoryBtn" class="reset-filter-btn">
+            Show All
+          </button>
+        </div>
+        <div id="sidebarLinks"></div>
+      </aside>
+
+      <main class="content" id="mainContent">
+        <!-- Hero -->
+        <div class="hero">
+          <div>
+            <div class="hero-tag">Course Directory</div>
+            <h1>MaharaTech Technical Library</h1>
+            <p>
+              Explore online technical courses and tracks from the MaharaTech
+              catalog.
+            </p>
+          </div>
+          <div class="hero-stats">
+            <div class="stat-item">
+              <div class="stat-num" id="totalCoursesCount">0</div>
+              <div class="stat-label">Courses</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-num" id="totalTracksCount">0</div>
+              <div class="stat-label">Tracks</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Controls Toolbar -->
+        <div class="controls-bar">
+          <div class="controls-left">
+            <div class="view-switcher">
+              <button
+                class="view-btn active"
+                id="viewPaginatedBtn"
+                title="Paginated Grid View"
+              >
+                <span>▦</span> Grid
+              </button>
+              <button
+                class="view-btn"
+                id="viewCategorizedBtn"
+                title="Grouped by Category"
+              >
+                <span>▤</span> Category
+              </button>
+              <button class="view-btn" id="viewListBtn" title="Compact List">
+                <span>☰</span> List
+              </button>
+            </div>
+
+            <select id="categoryFilter" class="custom-select">
+              <option value="ALL">All Categories</option>
+            </select>
+          </div>
+
+          <div class="controls-right">
+            <label class="control-label" for="sortSelect">Sort:</label>
+            <select id="sortSelect" class="custom-select">
+              <option value="ID_ASC">ID (Low &rarr; High)</option>
+              <option value="ID_DESC">ID (High &rarr; Low)</option>
+              <option value="NAME_ASC">Name (A &rarr; Z)</option>
+              <option value="NAME_DESC">Name (Z &rarr; A)</option>
+              <option value="CATEGORY_ASC">Category (A &rarr; Z)</option>
+            </select>
+
+            <label class="control-label" for="pageSizeSelect">Show:</label>
+            <select id="pageSizeSelect" class="custom-select">
+              <option value="12">12</option>
+              <option value="24" selected>24</option>
+              <option value="48">48</option>
+              <option value="96">96</option>
+              <option value="ALL">All</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Course Content Container -->
+        <div id="contentContainer"></div>
+
+        <!-- Pagination Container -->
+        <div
+          id="paginationContainer"
+          class="pagination-bar"
+          style="display: none"
+        ></div>
+      </main>
+    </div>
+
+    <!-- Footer -->
+    <footer class="iti-footer">
+      <div class="footer-container">
+        <div class="footer-text">
+          <strong>MaharaTech Course Explorer</strong> &bull; Unofficial catalog
+          indexing public MaharaTech courses
+        </div>
+        <div class="footer-links">
+          <a
+            href="https://iti.gov.eg/home"
+            target="_blank"
+            rel="noopener noreferrer"
+            >ITI Official Website ↗</a
+          >
+          <a
+            href="https://maharatech.gov.eg"
+            target="_blank"
+            rel="noopener noreferrer"
+            >MaharaTech Platform ↗</a
+          >
+        </div>
+      </div>
+    </footer>
+
+    <!-- Scroll to Top Button -->
+    <button id="scrollTopBtn" class="scroll-top-btn" title="Back to top">
+      ↑
+    </button>
+
+    <script>
+      // State
+      let allCourses = [];
+      let activeCategory = "ALL";
+      let searchQuery = "";
+      let sortMode = "ID_ASC";
+      let viewMode = "PAGINATED"; // 'PAGINATED' | 'CATEGORIZED' | 'LIST'
+      let currentPage = 1;
+      let pageSize = 24;
+
+      // Elements
+      const sidebar = document.getElementById("sidebar");
+      const menuToggle = document.getElementById("menuToggle");
+      const sidebarOverlay = document.getElementById("sidebarOverlay");
+      const sidebarLinks = document.getElementById("sidebarLinks");
+      const searchInput = document.getElementById("searchInput");
+      const clearSearchBtn = document.getElementById("clearSearchBtn");
+      const contentContainer = document.getElementById("contentContainer");
+      const paginationContainer = document.getElementById(
+        "paginationContainer",
+      );
+      const totalCoursesCount = document.getElementById("totalCoursesCount");
+      const totalTracksCount = document.getElementById("totalTracksCount");
+      const categoryFilter = document.getElementById("categoryFilter");
+      const sortSelect = document.getElementById("sortSelect");
+      const pageSizeSelect = document.getElementById("pageSizeSelect");
+      const viewPaginatedBtn = document.getElementById("viewPaginatedBtn");
+      const viewCategorizedBtn = document.getElementById("viewCategorizedBtn");
+      const viewListBtn = document.getElementById("viewListBtn");
+      const resetCategoryBtn = document.getElementById("resetCategoryBtn");
+      const scrollTopBtn = document.getElementById("scrollTopBtn");
+      const mainContent = document.getElementById("mainContent");
+
+      // Drawer Toggle
+      const toggleSidebar = () => {
+        sidebar.classList.toggle("open");
+        sidebarOverlay.classList.toggle("active");
+      };
+      menuToggle.addEventListener("click", toggleSidebar);
+      sidebarOverlay.addEventListener("click", toggleSidebar);
+
+      // Normalize course object
+      const normalizeCourse = (c) => ({
+        id: Number(c.ID ?? c.id),
+        course_name: String(
+          c.course_name ?? c.courseName ?? "Untitled Course",
+        ).trim(),
+        category: String(
+          c.main_category ?? c.category ?? "General & Core Topics",
+        ).trim(),
+        cover: c.cover ?? c.image ?? null,
+      });
+
+      const renderMockCover = (name, cat) => {
+        const safeName = (name || "").replace(/"/g, "&quot;");
+        const safeCat = (cat || "").replace(/"/g, "&quot;");
+        return `
+        <div class="mock-cover">
+          <span class="mock-cat">${safeCat}</span>
+          <div class="mock-title" dir="auto">${safeName}</div>
+          <div class="mock-foot">ITI MaharaTech Track</div>
+        </div>
+      `;
+      };
+
+      const renderCover = (c) => {
+        if (c.cover) {
+          const escapedName = (c.course_name || "")
+            .replace(/'/g, "\\'")
+            .replace(/"/g, "&quot;");
+          const escapedCat = (c.category || "")
+            .replace(/'/g, "\\'")
+            .replace(/"/g, "&quot;");
+          return `
+          <div class="card-cover-wrapper">
+            <img class="course-cover-img" src="${c.cover}" alt="${escapedName}" loading="lazy" onerror="this.parentElement.outerHTML=renderMockCover('${escapedName}', '${escapedCat}')" />
+          </div>
+        `;
+        }
+        return renderMockCover(c.course_name, c.category);
+      };
+
+      const renderCard = (c) => `
+      <div class="course-card">
+        ${renderCover(c)}
+        <div class="card-body">
+          <div>
+            <div class="card-meta">
+              <span class="badge-id">#${c.id}</span>
+              <span class="badge-category" title="${c.category}">${c.category}</span>
+            </div>
+            <div class="course-name" dir="auto">${c.course_name}</div>
+          </div>
+          <a class="launch-btn" href="https://maharatech.gov.eg/course/view.php?id=${c.id}" target="_blank" rel="noopener noreferrer">
+            Open Course &rarr;
+          </a>
+        </div>
+      </div>
+    `;
+
+      const renderListItem = (c) => `
+      <div class="list-course-item">
+        <div class="list-item-left">
+          <span class="badge-id">#${c.id}</span>
+          <div class="list-item-info">
+            <div class="list-item-title" dir="auto">${c.course_name}</div>
+            <span style="font-size:0.75rem; color:var(--iti-text-muted);">${c.category}</span>
+          </div>
+        </div>
+        <a class="launch-btn" style="padding: 0.45rem 0.85rem; font-size: 0.8rem; flex: none;" href="https://maharatech.gov.eg/course/view.php?id=${c.id}" target="_blank" rel="noopener noreferrer">
+          Open Course &rarr;
+        </a>
+      </div>
+    `;
+
+      // Filter & Sort Pipeline
+      const getProcessedCourses = () => {
+        let result = [...allCourses];
+
+        // 1. Filter by category
+        if (activeCategory !== "ALL") {
+          result = result.filter((c) => c.category === activeCategory);
+        }
+
+        // 2. Filter by search query
+        if (searchQuery) {
+          const q = searchQuery.toLowerCase();
+          result = result.filter(
+            (c) =>
+              c.course_name.toLowerCase().includes(q) ||
+              c.category.toLowerCase().includes(q) ||
+              String(c.id).includes(q),
+          );
+        }
+
+        // 3. Sort
+        result.sort((a, b) => {
+          if (sortMode === "ID_ASC") return a.id - b.id;
+          if (sortMode === "ID_DESC") return b.id - a.id;
+          if (sortMode === "NAME_ASC")
+            return a.course_name.localeCompare(b.course_name);
+          if (sortMode === "NAME_DESC")
+            return b.course_name.localeCompare(a.course_name);
+          if (sortMode === "CATEGORY_ASC")
+            return a.category.localeCompare(b.category) || a.id - b.id;
+          return 0;
+        });
+
+        return result;
+      };
+
+      // Render Pagination Controls
+      const renderPagination = (totalItems) => {
+        if (
+          viewMode === "CATEGORIZED" ||
+          pageSize === "ALL" ||
+          totalItems <= pageSize
+        ) {
+          paginationContainer.style.display = "none";
+          return;
+        }
+
+        paginationContainer.style.display = "flex";
+        const totalPages = Math.ceil(totalItems / pageSize);
+        if (currentPage > totalPages) currentPage = totalPages || 1;
+
+        const startItem = (currentPage - 1) * pageSize + 1;
+        const endItem = Math.min(currentPage * pageSize, totalItems);
+
+        let buttonsHTML = `
+        <button class="page-btn" ${currentPage === 1 ? "disabled" : ""} onclick="setPage(1)" title="First Page">&laquo;</button>
+        <button class="page-btn" ${currentPage === 1 ? "disabled" : ""} onclick="setPage(${currentPage - 1})" title="Previous Page">&lsaquo;</button>
+      `;
+
+        const pageWindow = 2;
+        let startPage = Math.max(1, currentPage - pageWindow);
+        let endPage = Math.min(totalPages, currentPage + pageWindow);
+
+        if (startPage > 1) {
+          buttonsHTML += `<button class="page-btn" onclick="setPage(1)">1</button>`;
+          if (startPage > 2)
+            buttonsHTML += `<span class="page-ellipsis">...</span>`;
+        }
+
+        for (let p = startPage; p <= endPage; p++) {
+          buttonsHTML += `
+          <button class="page-btn ${p === currentPage ? "active" : ""}" onclick="setPage(${p})">${p}</button>
+        `;
+        }
+
+        if (endPage < totalPages) {
+          if (endPage < totalPages - 1)
+            buttonsHTML += `<span class="page-ellipsis">...</span>`;
+          buttonsHTML += `<button class="page-btn" onclick="setPage(${totalPages})">${totalPages}</button>`;
+        }
+
+        buttonsHTML += `
+        <button class="page-btn" ${currentPage === totalPages ? "disabled" : ""} onclick="setPage(${currentPage + 1})" title="Next Page">&rsaquo;</button>
+        <button class="page-btn" ${currentPage === totalPages ? "disabled" : ""} onclick="setPage(${totalPages})" title="Last Page">&raquo;</button>
+      `;
+
+        paginationContainer.innerHTML = `
+        <div class="pagination-info">
+          Showing <strong>${startItem}–${endItem}</strong> of <strong>${totalItems}</strong> courses
+        </div>
+        <div class="pagination-controls">
+          ${buttonsHTML}
+        </div>
+      `;
+      };
+
+      window.setPage = (page) => {
+        currentPage = page;
+        renderMain();
+        window.scrollTo({ top: 300, behavior: "smooth" });
+      };
+
+      // Render Main Views
+      const renderMain = () => {
+        const filtered = getProcessedCourses();
+
+        if (filtered.length === 0) {
+          contentContainer.innerHTML = `
+          <div class="empty-state">
+            <h4>No courses found</h4>
+            <p>Try refining your search terms or clearing the selected track filter.</p>
+          </div>
+        `;
+          paginationContainer.style.display = "none";
+          return;
+        }
+
+        if (viewMode === "CATEGORIZED") {
+          const grouped = {};
+          filtered.forEach((c) => {
+            if (!grouped[c.category]) grouped[c.category] = [];
+            grouped[c.category].push(c);
+          });
+
+          const categories = Object.keys(grouped).sort((a, b) =>
+            a.localeCompare(b),
+          );
+          contentContainer.innerHTML = categories
+            .map(
+              (cat) => `
+          <section class="category-section" id="${encodeURIComponent(cat)}">
+            <div class="category-header">
+              ${cat}
+              <span class="count-pill" style="font-size:0.85rem;">${grouped[cat].length}</span>
+            </div>
+            <div class="cards-grid">
+              ${grouped[cat].map(renderCard).join("")}
+            </div>
+          </section>
+        `,
+            )
+            .join("");
+          paginationContainer.style.display = "none";
+        } else if (viewMode === "LIST") {
+          const items =
+            pageSize === "ALL"
+              ? filtered
+              : filtered.slice(
+                  (currentPage - 1) * pageSize,
+                  currentPage * pageSize,
+                );
+
+          contentContainer.innerHTML = `
+          <div class="list-view-container">
+            ${items.map(renderListItem).join("")}
+          </div>
+        `;
+          renderPagination(filtered.length);
+        } else {
+          const items =
+            pageSize === "ALL"
+              ? filtered
+              : filtered.slice(
+                  (currentPage - 1) * pageSize,
+                  currentPage * pageSize,
+                );
+
+          contentContainer.innerHTML = `
+          <div class="cards-grid">
+            ${items.map(renderCard).join("")}
+          </div>
+        `;
+          renderPagination(filtered.length);
+        }
+      };
+
+      // Render Sidebar & Category Select
+      const renderSidebarAndFilters = () => {
+        const categoryCounts = {};
+        allCourses.forEach((c) => {
+          categoryCounts[c.category] = (categoryCounts[c.category] || 0) + 1;
+        });
+
+        const categories = Object.keys(categoryCounts).sort((a, b) =>
+          a.localeCompare(b),
+        );
+
+        // Sidebar links
+        sidebarLinks.innerHTML = categories
+          .map(
+            (cat) => `
+        <a class="nav-link ${activeCategory === cat ? "active" : ""}" data-category="${cat}">
+          <span>${cat}</span>
+          <span class="count-pill">${categoryCounts[cat]}</span>
+        </a>
+      `,
+          )
+          .join("");
+
+        // Category Dropdown
+        categoryFilter.innerHTML = `
+        <option value="ALL">All Categories (${allCourses.length})</option>
+        ${categories
+          .map(
+            (cat) => `
+          <option value="${cat}" ${activeCategory === cat ? "selected" : ""}>
+            ${cat} (${categoryCounts[cat]})
+          </option>
+        `,
+          )
+          .join("")}
+      `;
+
+        // Sidebar click handler
+        sidebarLinks.querySelectorAll(".nav-link").forEach((link) => {
+          link.addEventListener("click", () => {
+            const cat = link.getAttribute("data-category");
+            activeCategory = cat;
+            categoryFilter.value = cat;
+            currentPage = 1;
+            renderSidebarAndFilters();
+            renderMain();
+            if (window.innerWidth <= 900) toggleSidebar();
+          });
+        });
+      };
+
+      // Event Listeners
+      categoryFilter.addEventListener("change", (e) => {
+        activeCategory = e.target.value;
+        currentPage = 1;
+        renderSidebarAndFilters();
+        renderMain();
+      });
+
+      resetCategoryBtn.addEventListener("click", () => {
+        activeCategory = "ALL";
+        categoryFilter.value = "ALL";
+        currentPage = 1;
+        renderSidebarAndFilters();
+        renderMain();
+      });
+
+      sortSelect.addEventListener("change", (e) => {
+        sortMode = e.target.value;
+        renderMain();
+      });
+
+      pageSizeSelect.addEventListener("change", (e) => {
+        pageSize = e.target.value === "ALL" ? "ALL" : Number(e.target.value);
+        currentPage = 1;
+        renderMain();
+      });
+
+      // View Switchers
+      viewPaginatedBtn.addEventListener("click", () => {
+        viewMode = "PAGINATED";
+        viewPaginatedBtn.classList.add("active");
+        viewCategorizedBtn.classList.remove("active");
+        viewListBtn.classList.remove("active");
+        renderMain();
+      });
+
+      viewCategorizedBtn.addEventListener("click", () => {
+        viewMode = "CATEGORIZED";
+        viewCategorizedBtn.classList.add("active");
+        viewPaginatedBtn.classList.remove("active");
+        viewListBtn.classList.remove("active");
+        renderMain();
+      });
+
+      viewListBtn.addEventListener("click", () => {
+        viewMode = "LIST";
+        viewListBtn.classList.add("active");
+        viewPaginatedBtn.classList.remove("active");
+        viewCategorizedBtn.classList.remove("active");
+        renderMain();
+      });
+
+      // Search
+      const handleSearch = (e) => {
+        searchQuery = e.target.value.trim();
+        clearSearchBtn.style.display = searchQuery ? "block" : "none";
+        currentPage = 1;
+        renderMain();
+      };
+
+      searchInput.addEventListener("input", handleSearch);
+
+      clearSearchBtn.addEventListener("click", () => {
+        searchInput.value = "";
+        searchQuery = "";
+        clearSearchBtn.style.display = "none";
+        currentPage = 1;
+        renderMain();
+        searchInput.focus();
+      });
+
+      // Keyboard Shortcuts
+      window.addEventListener("keydown", (e) => {
+        if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "k") {
+          e.preventDefault();
+          searchInput.focus();
+        }
+        if (e.key === "Escape" && document.activeElement === searchInput) {
+          searchInput.value = "";
+          searchQuery = "";
+          clearSearchBtn.style.display = "none";
+          renderMain();
+          searchInput.blur();
+        }
+        if (viewMode !== "CATEGORIZED" && pageSize !== "ALL") {
+          if (e.target.tagName !== "INPUT" && e.target.tagName !== "SELECT") {
+            const totalPages = Math.ceil(
+              getProcessedCourses().length / pageSize,
+            );
+            if (e.key === "ArrowRight" && currentPage < totalPages) {
+              setPage(currentPage + 1);
+            } else if (e.key === "ArrowLeft" && currentPage > 1) {
+              setPage(currentPage - 1);
+            }
+          }
+        }
+      });
+
+      // Scroll to Top
+      window.addEventListener("scroll", () => {
+        if (window.scrollY > 350) {
+          scrollTopBtn.style.display = "flex";
+        } else {
+          scrollTopBtn.style.display = "none";
+        }
+      });
+
+      scrollTopBtn.addEventListener("click", () => {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+
+      // Initialization
+      async function init() {
+        try {
+          const res = await fetch("./maharatech_courses.json");
+          if (res.ok) {
+            const raw = await res.json();
+            allCourses = (Array.isArray(raw) ? raw : raw.courses || []).map(
+              normalizeCourse,
+            );
+          }
+        } catch (err) {
+          console.warn(
+            "Could not load maharatech_courses.json dynamically:",
+            err,
+          );
+        }
+
+        if (!allCourses || allCourses.length === 0) {
+          contentContainer.innerHTML = `
+          <div class="empty-state">
+            <h4>No courses found</h4>
+            <p>Ensure that <code>maharatech_courses.json</code> is located in the root directory.</p>
+          </div>
+        `;
+          return;
+        }
+
+        const totalTracks = new Set(allCourses.map((c) => c.category)).size;
+        totalCoursesCount.textContent = allCourses.length;
+        totalTracksCount.textContent = totalTracks;
+
+        renderSidebarAndFilters();
+        renderMain();
+      }
+
+      init();
+    </script>
+  </body>
+</html>
